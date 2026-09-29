@@ -1,0 +1,1249 @@
+Provinsi,Tahun,Periode,Wilayah,Komponen,Nilai_Aktual,Nilai_Prediksi
+ACEH,2021,Maret,Perdesaan,Makanan,406917.0,396105.81
+ACEH,2021,Maret,Perdesaan,Non-Makanan,122118.0,114271.245
+ACEH,2021,Maret,Perdesaan,Total,529035.0,509210.415
+ACEH,2021,Maret,Perkotaan,Makanan,418047.0,397787.525
+ACEH,2021,Maret,Perkotaan,Non-Makanan,147729.0,142091.235
+ACEH,2021,Maret,Perkotaan,Total,565776.0,536607.42
+ACEH,2021,Maret,Perkotaan dan Perdesaan,Makanan,410420.0,396597.685
+ACEH,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,130689.0,124182.67
+ACEH,2021,Maret,Perkotaan dan Perdesaan,Total,541109.0,520363.515
+ACEH,2021,September,Perdesaan,Makanan,414738.0,396737.68
+ACEH,2021,September,Perdesaan,Non-Makanan,126262.0,114550.205
+ACEH,2021,September,Perdesaan,Total,541000.0,512613.295
+ACEH,2021,September,Perkotaan,Makanan,426126.0,398607.33
+ACEH,2021,September,Perkotaan,Non-Makanan,151144.0,143036.145
+ACEH,2021,September,Perkotaan,Total,577270.0,538096.315
+ACEH,2021,September,Perkotaan dan Perdesaan,Makanan,418296.0,397355.37
+ACEH,2021,September,Perkotaan dan Perdesaan,Non-Makanan,134643.0,124670.195
+ACEH,2021,September,Perkotaan dan Perdesaan,Total,552939.0,522241.225
+ACEH,2022,Maret,Perdesaan,Makanan,434104.0,396105.81
+ACEH,2022,Maret,Perdesaan,Non-Makanan,131658.0,114271.245
+ACEH,2022,Maret,Perdesaan,Total,565762.0,509210.415
+ACEH,2022,Maret,Perkotaan,Makanan,448528.0,397787.525
+ACEH,2022,Maret,Perkotaan,Non-Makanan,157867.0,142091.235
+ACEH,2022,Maret,Perkotaan,Total,606394.0,536607.42
+ACEH,2022,Maret,Perkotaan dan Perdesaan,Makanan,438658.0,396597.685
+ACEH,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,140570.0,124182.67
+ACEH,2022,Maret,Perkotaan dan Perdesaan,Total,579228.0,520363.515
+ACEH,2022,September,Perdesaan,Makanan,462138.0,396737.68
+ACEH,2022,September,Perdesaan,Non-Makanan,140763.0,114550.205
+ACEH,2022,September,Perdesaan,Total,602900.0,512613.295
+ACEH,2022,September,Perkotaan,Makanan,481276.0,398607.33
+ACEH,2022,September,Perkotaan,Non-Makanan,164956.0,143036.145
+ACEH,2022,September,Perkotaan,Total,646232.0,538096.315
+ACEH,2022,September,Perkotaan dan Perdesaan,Makanan,468255.0,397355.37
+ACEH,2022,September,Perkotaan dan Perdesaan,Non-Makanan,149038.0,124670.195
+ACEH,2022,September,Perkotaan dan Perdesaan,Total,617293.0,522241.225
+BALI,2021,Maret,Perdesaan,Makanan,291311.0,285212.23
+BALI,2021,Maret,Perdesaan,Non-Makanan,126411.0,119056.855
+BALI,2021,Maret,Perdesaan,Total,417722.0,405607.035
+BALI,2021,Maret,Perkotaan,Makanan,321245.0,304986.71
+BALI,2021,Maret,Perkotaan,Non-Makanan,145944.0,136736.58
+BALI,2021,Maret,Perkotaan,Total,467189.0,448425.83
+BALI,2021,Maret,Perkotaan dan Perdesaan,Makanan,312020.0,298551.135
+BALI,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,140201.0,130234.34
+BALI,2021,Maret,Perkotaan dan Perdesaan,Total,452221.0,432777.595
+BALI,2021,September,Perdesaan,Makanan,302550.0,287472.865
+BALI,2021,September,Perdesaan,Non-Makanan,127328.0,120027.09
+BALI,2021,September,Perdesaan,Total,429877.0,409429.325
+BALI,2021,September,Perkotaan,Makanan,325747.0,306926.67
+BALI,2021,September,Perkotaan,Non-Makanan,148574.0,140105.605
+BALI,2021,September,Perkotaan,Total,474322.0,453150.635
+BALI,2021,September,Perkotaan dan Perdesaan,Makanan,319095.0,301026.775
+BALI,2021,September,Perkotaan dan Perdesaan,Non-Makanan,142437.0,132637.81
+BALI,2021,September,Perkotaan dan Perdesaan,Total,461532.0,437817.28
+BALI,2022,Maret,Perdesaan,Makanan,318169.0,285212.23
+BALI,2022,Maret,Perdesaan,Non-Makanan,131527.0,119056.855
+BALI,2022,Maret,Perdesaan,Total,449697.0,405607.035
+BALI,2022,Maret,Perkotaan,Makanan,346903.0,304986.71
+BALI,2022,Maret,Perkotaan,Non-Makanan,152669.0,136736.58
+BALI,2022,Maret,Perkotaan,Total,499572.0,448425.83
+BALI,2022,Maret,Perkotaan dan Perdesaan,Makanan,338417.0,298551.135
+BALI,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,146604.0,130234.34
+BALI,2022,Maret,Perkotaan dan Perdesaan,Total,485021.0,432777.595
+BALI,2022,September,Perdesaan,Makanan,334827.0,287472.865
+BALI,2022,September,Perdesaan,Non-Makanan,141203.0,120027.09
+BALI,2022,September,Perdesaan,Total,476031.0,409429.325
+BALI,2022,September,Perkotaan,Makanan,367036.0,306926.67
+BALI,2022,September,Perkotaan,Non-Makanan,163784.0,140105.605
+BALI,2022,September,Perkotaan,Total,530820.0,453150.635
+BALI,2022,September,Perkotaan dan Perdesaan,Makanan,357640.0,301026.775
+BALI,2022,September,Perkotaan dan Perdesaan,Non-Makanan,157398.0,132637.81
+BALI,2022,September,Perkotaan dan Perdesaan,Total,515038.0,437817.28
+BANTEN,2021,Maret,Perdesaan,Makanan,364081.0,349251.125
+BANTEN,2021,Maret,Perdesaan,Non-Makanan,121444.0,115795.215
+BANTEN,2021,Maret,Perdesaan,Total,485525.0,463814.685
+BANTEN,2021,Maret,Perkotaan,Makanan,390893.0,370079.72
+BANTEN,2021,Maret,Perkotaan,Non-Makanan,158218.0,150382.21
+BANTEN,2021,Maret,Perkotaan,Total,549111.0,525149.305
+BANTEN,2021,Maret,Perkotaan dan Perdesaan,Makanan,382584.0,363045.99
+BANTEN,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,147779.0,140212.59
+BANTEN,2021,Maret,Perkotaan dan Perdesaan,Total,530363.0,502237.82
+BANTEN,2021,September,Perdesaan,Makanan,369466.0,355955.22
+BANTEN,2021,September,Perdesaan,Non-Makanan,127748.0,116251.615
+BANTEN,2021,September,Perdesaan,Total,497213.0,470363.2
+BANTEN,2021,September,Perkotaan,Makanan,405526.0,373376.05
+BANTEN,2021,September,Perkotaan,Non-Makanan,161474.0,152751.7
+BANTEN,2021,September,Perkotaan,Total,567000.0,527365.81
+BANTEN,2021,September,Perkotaan dan Perdesaan,Makanan,395258.0,367254.905
+BANTEN,2021,September,Perkotaan dan Perdesaan,Non-Makanan,152225.0,142174.19
+BANTEN,2021,September,Perkotaan dan Perdesaan,Total,547483.0,505957.36
+BANTEN,2022,Maret,Perdesaan,Makanan,387733.0,349251.125
+BANTEN,2022,Maret,Perdesaan,Non-Makanan,133579.0,115795.215
+BANTEN,2022,Maret,Perdesaan,Total,521311.0,463814.685
+BANTEN,2022,Maret,Perkotaan,Makanan,421343.0,370079.72
+BANTEN,2022,Maret,Perkotaan,Non-Makanan,166426.0,150382.21
+BANTEN,2022,Maret,Perkotaan,Total,587768.0,525149.305
+BANTEN,2022,Maret,Perkotaan dan Perdesaan,Makanan,412182.0,363045.99
+BANTEN,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,158185.0,140212.59
+BANTEN,2022,Maret,Perkotaan dan Perdesaan,Total,570367.0,502237.82
+BANTEN,2022,September,Perdesaan,Makanan,400849.0,355955.22
+BANTEN,2022,September,Perdesaan,Non-Makanan,144108.0,116251.615
+BANTEN,2022,September,Perdesaan,Total,544957.0,470363.2
+BANTEN,2022,September,Perkotaan,Makanan,444996.0,373376.05
+BANTEN,2022,September,Perkotaan,Non-Makanan,172532.0,152751.7
+BANTEN,2022,September,Perkotaan,Total,617527.0,527365.81
+BANTEN,2022,September,Perkotaan dan Perdesaan,Makanan,433368.0,367254.905
+BANTEN,2022,September,Perkotaan dan Perdesaan,Non-Makanan,165380.0,142174.19
+BANTEN,2022,September,Perkotaan dan Perdesaan,Total,598748.0,505957.36
+BENGKULU,2021,Maret,Perdesaan,Makanan,386776.0,377635.795
+BENGKULU,2021,Maret,Perdesaan,Non-Makanan,137716.0,128344.06
+BENGKULU,2021,Maret,Perdesaan,Total,524492.0,505357.225
+BENGKULU,2021,Maret,Perkotaan,Makanan,449159.0,415779.34
+BENGKULU,2021,Maret,Perkotaan,Non-Makanan,155110.0,148237.19
+BENGKULU,2021,Maret,Perkotaan,Total,604269.0,564366.39
+BENGKULU,2021,Maret,Perkotaan dan Perdesaan,Makanan,405468.0,389878.045
+BENGKULU,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,143466.0,134396.38
+BENGKULU,2021,Maret,Perkotaan dan Perdesaan,Total,548934.0,523085.905
+BENGKULU,2021,September,Perdesaan,Makanan,405341.0,380247.535
+BENGKULU,2021,September,Perdesaan,Non-Makanan,142987.0,129948.395
+BENGKULU,2021,September,Perdesaan,Total,548327.0,508805.08
+BENGKULU,2021,September,Perkotaan,Makanan,462886.0,420302.79
+BENGKULU,2021,September,Perkotaan,Non-Makanan,161688.0,148951.795
+BENGKULU,2021,September,Perkotaan,Total,624573.0,570501.215
+BENGKULU,2021,September,Perkotaan dan Perdesaan,Makanan,423264.0,392232.26
+BENGKULU,2021,September,Perkotaan dan Perdesaan,Non-Makanan,149191.0,136126.02
+BENGKULU,2021,September,Perkotaan dan Perdesaan,Total,572455.0,527280.035
+BENGKULU,2022,Maret,Perdesaan,Makanan,416744.0,377635.795
+BENGKULU,2022,Maret,Perdesaan,Non-Makanan,149208.0,128344.06
+BENGKULU,2022,Maret,Perdesaan,Total,565952.0,505357.225
+BENGKULU,2022,Maret,Perkotaan,Makanan,480128.0,415779.34
+BENGKULU,2022,Maret,Perkotaan,Non-Makanan,167708.0,148237.19
+BENGKULU,2022,Maret,Perkotaan,Total,647836.0,564366.39
+BENGKULU,2022,Maret,Perkotaan dan Perdesaan,Makanan,435393.0,389878.045
+BENGKULU,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,155362.0,134396.38
+BENGKULU,2022,Maret,Perkotaan dan Perdesaan,Total,590755.0,523085.905
+BENGKULU,2022,September,Perdesaan,Makanan,437286.0,380247.535
+BENGKULU,2022,September,Perdesaan,Non-Makanan,162687.0,129948.395
+BENGKULU,2022,September,Perdesaan,Total,599973.0,508805.08
+BENGKULU,2022,September,Perkotaan,Makanan,508068.0,420302.79
+BENGKULU,2022,September,Perkotaan,Non-Makanan,178155.0,148951.795
+BENGKULU,2022,September,Perkotaan,Total,686223.0,570501.215
+BENGKULU,2022,September,Perkotaan dan Perdesaan,Makanan,457885.0,392232.26
+BENGKULU,2022,September,Perkotaan dan Perdesaan,Non-Makanan,167767.0,136126.02
+BENGKULU,2022,September,Perkotaan dan Perdesaan,Total,625652.0,527280.035
+DI YOGYAKARTA,2021,Maret,Perdesaan,Makanan,304443.0,302960.74
+DI YOGYAKARTA,2021,Maret,Perdesaan,Non-Makanan,109797.0,106155.445
+DI YOGYAKARTA,2021,Maret,Perdesaan,Total,414240.0,409371.265
+DI YOGYAKARTA,2021,Maret,Perkotaan,Makanan,366206.0,345749.175
+DI YOGYAKARTA,2021,Maret,Perkotaan,Non-Makanan,140801.0,136847.315
+DI YOGYAKARTA,2021,Maret,Perkotaan,Total,507007.0,488179.675
+DI YOGYAKARTA,2021,Maret,Perkotaan dan Perdesaan,Makanan,350057.0,333033.475
+DI YOGYAKARTA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,132798.0,127072.82
+DI YOGYAKARTA,2021,Maret,Perkotaan dan Perdesaan,Total,482855.0,458764.19
+DI YOGYAKARTA,2021,September,Perdesaan,Makanan,325101.0,303790.13
+DI YOGYAKARTA,2021,September,Perdesaan,Non-Makanan,113311.0,106618.43
+DI YOGYAKARTA,2021,September,Perdesaan,Total,438412.0,412047.655
+DI YOGYAKARTA,2021,September,Perkotaan,Makanan,370047.0,347123.105
+DI YOGYAKARTA,2021,September,Perkotaan,Non-Makanan,147305.0,138265.25
+DI YOGYAKARTA,2021,September,Perkotaan,Total,517353.0,490324.17
+DI YOGYAKARTA,2021,September,Perkotaan dan Perdesaan,Makanan,358285.0,333699.55
+DI YOGYAKARTA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,138620.0,128653.48
+DI YOGYAKARTA,2021,September,Perkotaan dan Perdesaan,Total,496905.0,461850.035
+DI YOGYAKARTA,2022,Maret,Perdesaan,Makanan,338551.0,302960.74
+DI YOGYAKARTA,2022,Maret,Perdesaan,Non-Makanan,117032.0,106155.445
+DI YOGYAKARTA,2022,Maret,Perdesaan,Total,455583.0,409371.265
+DI YOGYAKARTA,2022,Maret,Perkotaan,Makanan,392290.0,345749.175
+DI YOGYAKARTA,2022,Maret,Perkotaan,Non-Makanan,151531.0,136847.315
+DI YOGYAKARTA,2022,Maret,Perkotaan,Total,543821.0,488179.675
+DI YOGYAKARTA,2022,Maret,Perkotaan dan Perdesaan,Makanan,378902.0,333033.475
+DI YOGYAKARTA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,142770.0,127072.82
+DI YOGYAKARTA,2022,Maret,Perkotaan dan Perdesaan,Total,521672.0,458764.19
+DI YOGYAKARTA,2022,September,Perdesaan,Makanan,352689.0,303790.13
+DI YOGYAKARTA,2022,September,Perdesaan,Non-Makanan,128078.0,106618.43
+DI YOGYAKARTA,2022,September,Perdesaan,Total,480767.0,412047.655
+DI YOGYAKARTA,2022,September,Perkotaan,Makanan,412821.0,347123.105
+DI YOGYAKARTA,2022,September,Perkotaan,Non-Makanan,161094.0,138265.25
+DI YOGYAKARTA,2022,September,Perkotaan,Total,573915.0,490324.17
+DI YOGYAKARTA,2022,September,Perkotaan dan Perdesaan,Makanan,398363.0,333699.55
+DI YOGYAKARTA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,152979.0,128653.48
+DI YOGYAKARTA,2022,September,Perkotaan dan Perdesaan,Total,551342.0,461850.035
+DKI JAKARTA,2021,Maret,Perkotaan,Makanan,479332.0,461852.905
+DKI JAKARTA,2021,Maret,Perkotaan,Non-Makanan,218306.0,212724.15
+DKI JAKARTA,2021,Maret,Perkotaan,Total,697638.0,674629.48
+DKI JAKARTA,2021,Maret,Perkotaan dan Perdesaan,Makanan,479332.0,461588.76
+DKI JAKARTA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,218306.0,212227.325
+DKI JAKARTA,2021,Maret,Perkotaan dan Perdesaan,Total,697638.0,674547.21
+DKI JAKARTA,2021,September,Perkotaan,Makanan,490918.0,465713.595
+DKI JAKARTA,2021,September,Perkotaan,Non-Makanan,224134.0,214115.035
+DKI JAKARTA,2021,September,Perkotaan,Total,715052.0,680942.23
+DKI JAKARTA,2021,September,Perkotaan dan Perdesaan,Makanan,490918.0,465762.87
+DKI JAKARTA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,224134.0,213613.315
+DKI JAKARTA,2021,September,Perkotaan dan Perdesaan,Total,715052.0,680622.415
+DKI JAKARTA,2022,Maret,Perkotaan,Makanan,508239.0,461852.905
+DKI JAKARTA,2022,Maret,Perkotaan,Non-Makanan,230716.0,212724.15
+DKI JAKARTA,2022,Maret,Perkotaan,Total,738955.0,674629.48
+DKI JAKARTA,2022,Maret,Perkotaan dan Perdesaan,Makanan,508239.0,461588.76
+DKI JAKARTA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,230716.0,212227.325
+DKI JAKARTA,2022,Maret,Perkotaan dan Perdesaan,Total,738955.0,674547.21
+DKI JAKARTA,2022,September,Perkotaan,Makanan,534819.0,465713.595
+DKI JAKARTA,2022,September,Perkotaan,Non-Makanan,238551.0,214115.035
+DKI JAKARTA,2022,September,Perkotaan,Total,773370.0,680942.23
+DKI JAKARTA,2022,September,Perkotaan dan Perdesaan,Makanan,534819.0,465762.87
+DKI JAKARTA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,238551.0,213613.315
+DKI JAKARTA,2022,September,Perkotaan dan Perdesaan,Total,773370.0,680622.415
+GORONTALO,2021,Maret,Perdesaan,Makanan,310257.0,291590.08
+GORONTALO,2021,Maret,Perdesaan,Non-Makanan,78352.0,75355.005
+GORONTALO,2021,Maret,Perdesaan,Total,388609.0,366924.39
+GORONTALO,2021,Maret,Perkotaan,Makanan,292463.0,282983.495
+GORONTALO,2021,Maret,Perkotaan,Non-Makanan,97496.0,91827.515
+GORONTALO,2021,Maret,Perkotaan,Total,389959.0,371851.365
+GORONTALO,2021,Maret,Perkotaan dan Perdesaan,Makanan,303108.0,287692.485
+GORONTALO,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,86719.0,81853.285
+GORONTALO,2021,Maret,Perkotaan dan Perdesaan,Total,389827.0,368842.125
+GORONTALO,2021,September,Perdesaan,Makanan,315316.0,295264.405
+GORONTALO,2021,September,Perdesaan,Non-Makanan,83491.0,76285.29
+GORONTALO,2021,September,Perdesaan,Total,398806.0,373240.735
+GORONTALO,2021,September,Perkotaan,Makanan,298372.0,284600.26
+GORONTALO,2021,September,Perkotaan,Non-Makanan,102847.0,94070.65
+GORONTALO,2021,September,Perkotaan,Total,401219.0,376884.455
+GORONTALO,2021,September,Perkotaan dan Perdesaan,Makanan,308586.0,290492.97
+GORONTALO,2021,September,Perkotaan dan Perdesaan,Non-Makanan,91919.0,83579.29
+GORONTALO,2021,September,Perkotaan dan Perdesaan,Total,400505.0,375116.27
+GORONTALO,2022,Maret,Perdesaan,Makanan,324541.0,291590.08
+GORONTALO,2022,Maret,Perdesaan,Non-Makanan,85647.0,75355.005
+GORONTALO,2022,Maret,Perdesaan,Total,410188.0,366924.39
+GORONTALO,2022,Maret,Perkotaan,Makanan,307264.0,282983.495
+GORONTALO,2022,Maret,Perkotaan,Non-Makanan,106015.0,91827.515
+GORONTALO,2022,Maret,Perkotaan,Total,413279.0,371851.365
+GORONTALO,2022,Maret,Perkotaan dan Perdesaan,Makanan,317319.0,287692.485
+GORONTALO,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,94588.0,81853.285
+GORONTALO,2022,Maret,Perkotaan dan Perdesaan,Total,411907.0,368842.125
+GORONTALO,2022,September,Perdesaan,Makanan,342791.0,295264.405
+GORONTALO,2022,September,Perdesaan,Non-Makanan,89278.0,76285.29
+GORONTALO,2022,September,Perdesaan,Total,432069.0,373240.735
+GORONTALO,2022,September,Perkotaan,Makanan,321061.0,284600.26
+GORONTALO,2022,September,Perkotaan,Non-Makanan,115590.0,94070.65
+GORONTALO,2022,September,Perkotaan,Total,436651.0,376884.455
+GORONTALO,2022,September,Perkotaan dan Perdesaan,Makanan,333794.0,290492.97
+GORONTALO,2022,September,Perkotaan dan Perdesaan,Non-Makanan,101167.0,83579.29
+GORONTALO,2022,September,Perkotaan dan Perdesaan,Total,434961.0,375116.27
+INDONESIA,2021,Maret,Perdesaan,Makanan,344277.0,332320.16
+INDONESIA,2021,Maret,Perdesaan,Non-Makanan,105908.0,101393.525
+INDONESIA,2021,Maret,Perdesaan,Total,450185.0,433807.74
+INDONESIA,2021,Maret,Perkotaan,Makanan,353767.0,339497.29
+INDONESIA,2021,Maret,Perkotaan,Non-Makanan,136081.0,132777.04
+INDONESIA,2021,Maret,Perkotaan,Total,489848.0,475034.45
+INDONESIA,2021,Maret,Perkotaan dan Perdesaan,Makanan,349474.0,335998.0
+INDONESIA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,123051.0,117748.315
+INDONESIA,2021,Maret,Perkotaan dan Perdesaan,Total,472525.0,454609.085
+INDONESIA,2021,September,Perdesaan,Makanan,355299.0,335398.955
+INDONESIA,2021,September,Perdesaan,Non-Makanan,109175.0,102128.855
+INDONESIA,2021,September,Perdesaan,Total,464474.0,437103.04
+INDONESIA,2021,September,Perkotaan,Makanan,363836.0,341295.03
+INDONESIA,2021,September,Perkotaan,Non-Makanan,138894.0,133990.465
+INDONESIA,2021,September,Perkotaan,Total,502730.0,476854.76
+INDONESIA,2021,September,Perkotaan dan Perdesaan,Makanan,360007.0,338295.165
+INDONESIA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,126161.0,118705.365
+INDONESIA,2021,September,Perkotaan dan Perdesaan,Total,486168.0,457519.175
+INDONESIA,2022,Maret,Perdesaan,Makanan,370096.0,332320.16
+INDONESIA,2022,Maret,Perdesaan,Non-Makanan,114113.0,101393.525
+INDONESIA,2022,Maret,Perdesaan,Total,484209.0,433807.74
+INDONESIA,2022,Maret,Perkotaan,Makanan,377958.0,339497.29
+INDONESIA,2022,Maret,Perkotaan,Non-Makanan,143536.0,132777.04
+INDONESIA,2022,Maret,Perkotaan,Total,521494.0,475034.45
+INDONESIA,2022,Maret,Perkotaan dan Perdesaan,Makanan,374454.0,335998.0
+INDONESIA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,131014.0,117748.315
+INDONESIA,2022,Maret,Perkotaan dan Perdesaan,Total,505468.0,454609.085
+INDONESIA,2022,September,Perdesaan,Makanan,391093.0,335398.955
+INDONESIA,2022,September,Perdesaan,Non-Makanan,122077.0,102128.855
+INDONESIA,2022,September,Perdesaan,Total,513170.0,437103.04
+INDONESIA,2022,September,Perkotaan,Makanan,401969.0,341295.03
+INDONESIA,2022,September,Perkotaan,Non-Makanan,150380.0,133990.465
+INDONESIA,2022,September,Perkotaan,Total,552349.0,476854.76
+INDONESIA,2022,September,Perkotaan dan Perdesaan,Makanan,397125.0,338295.165
+INDONESIA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,138422.0,118705.365
+INDONESIA,2022,September,Perkotaan dan Perdesaan,Total,535547.0,457519.175
+JAMBI,2021,Maret,Perdesaan,Makanan,362221.0,352707.245
+JAMBI,2021,Maret,Perdesaan,Non-Makanan,108537.0,103210.56
+JAMBI,2021,Maret,Perdesaan,Total,470758.0,451918.225
+JAMBI,2021,Maret,Perkotaan,Makanan,437220.0,399569.035
+JAMBI,2021,Maret,Perkotaan,Non-Makanan,146528.0,138021.665
+JAMBI,2021,Maret,Perkotaan,Total,583748.0,539664.705
+JAMBI,2021,Maret,Perkotaan dan Perdesaan,Makanan,385360.0,366158.205
+JAMBI,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,120995.0,115355.085
+JAMBI,2021,Maret,Perkotaan dan Perdesaan,Total,506355.0,480451.48
+JAMBI,2021,September,Perdesaan,Makanan,364150.0,355827.895
+JAMBI,2021,September,Perdesaan,Non-Makanan,114856.0,103641.06
+JAMBI,2021,September,Perdesaan,Total,479006.0,454525.245
+JAMBI,2021,September,Perkotaan,Makanan,448893.0,403214.04
+JAMBI,2021,September,Perkotaan,Non-Makanan,149285.0,139417.005
+JAMBI,2021,September,Perkotaan,Total,598178.0,542386.985
+JAMBI,2021,September,Perkotaan dan Perdesaan,Makanan,391656.0,369060.255
+JAMBI,2021,September,Perkotaan dan Perdesaan,Non-Makanan,126067.0,115824.87
+JAMBI,2021,September,Perkotaan dan Perdesaan,Total,517723.0,482766.445
+JAMBI,2022,Maret,Perdesaan,Makanan,380967.0,352707.245
+JAMBI,2022,Maret,Perdesaan,Non-Makanan,122845.0,103210.56
+JAMBI,2022,Maret,Perdesaan,Total,503811.0,451918.225
+JAMBI,2022,Maret,Perkotaan,Makanan,478149.0,399569.035
+JAMBI,2022,Maret,Perkotaan,Non-Makanan,157559.0,138021.665
+JAMBI,2022,Maret,Perkotaan,Total,635708.0,539664.705
+JAMBI,2022,Maret,Perkotaan dan Perdesaan,Makanan,411537.0,366158.205
+JAMBI,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,134333.0,115355.085
+JAMBI,2022,Maret,Perkotaan dan Perdesaan,Total,545870.0,480451.48
+JAMBI,2022,September,Perdesaan,Makanan,410425.0,355827.895
+JAMBI,2022,September,Perdesaan,Non-Makanan,130842.0,103641.06
+JAMBI,2022,September,Perdesaan,Total,541267.0,454525.245
+JAMBI,2022,September,Perkotaan,Makanan,517739.0,403214.04
+JAMBI,2022,September,Perkotaan,Non-Makanan,166816.0,139417.005
+JAMBI,2022,September,Perkotaan,Total,684555.0,542386.985
+JAMBI,2022,September,Perkotaan dan Perdesaan,Makanan,443292.0,369060.255
+JAMBI,2022,September,Perkotaan dan Perdesaan,Non-Makanan,142658.0,115824.87
+JAMBI,2022,September,Perkotaan dan Perdesaan,Total,585950.0,482766.445
+JAWA BARAT,2021,Maret,Perdesaan,Makanan,319590.0,307393.38
+JAWA BARAT,2021,Maret,Perdesaan,Non-Makanan,102167.0,97677.18
+JAWA BARAT,2021,Maret,Perdesaan,Total,421757.0,408447.955
+JAWA BARAT,2021,Maret,Perkotaan,Makanan,313015.0,302699.15
+JAWA BARAT,2021,Maret,Perkotaan,Non-Makanan,115817.0,113805.98
+JAWA BARAT,2021,Maret,Perkotaan,Total,428832.0,420909.34
+JAWA BARAT,2021,Maret,Perkotaan dan Perdesaan,Makanan,314572.0,303195.5
+JAWA BARAT,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,112830.0,109365.79
+JAWA BARAT,2021,Maret,Perkotaan dan Perdesaan,Total,427402.0,414367.66
+JAWA BARAT,2021,September,Perdesaan,Makanan,330150.0,310084.945
+JAWA BARAT,2021,September,Perdesaan,Non-Makanan,102892.0,98748.465
+JAWA BARAT,2021,September,Perdesaan,Total,433041.0,412890.94
+JAWA BARAT,2021,September,Perkotaan,Makanan,321499.0,304948.97
+JAWA BARAT,2021,September,Perkotaan,Non-Makanan,117143.0,114395.98
+JAWA BARAT,2021,September,Perkotaan,Total,438642.0,424996.68
+JAWA BARAT,2021,September,Perkotaan dan Perdesaan,Makanan,323525.0,305803.93
+JAWA BARAT,2021,September,Perkotaan dan Perdesaan,Non-Makanan,114079.0,110496.15
+JAWA BARAT,2021,September,Perkotaan dan Perdesaan,Total,437604.0,417777.48
+JAWA BARAT,2022,Maret,Perdesaan,Makanan,343615.0,307393.38
+JAWA BARAT,2022,Maret,Perdesaan,Non-Makanan,107690.0,97677.18
+JAWA BARAT,2022,Maret,Perdesaan,Total,451305.0,408447.955
+JAWA BARAT,2022,Maret,Perkotaan,Makanan,331420.0,302699.15
+JAWA BARAT,2022,Maret,Perkotaan,Non-Makanan,121232.0,113805.98
+JAWA BARAT,2022,Maret,Perkotaan,Total,452653.0,420909.34
+JAWA BARAT,2022,Maret,Perkotaan dan Perdesaan,Makanan,334224.0,303195.5
+JAWA BARAT,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,118356.0,109365.79
+JAWA BARAT,2022,Maret,Perkotaan dan Perdesaan,Total,452580.0,414367.66
+JAWA BARAT,2022,September,Perdesaan,Makanan,361697.0,310084.945
+JAWA BARAT,2022,September,Perdesaan,Non-Makanan,116273.0,98748.465
+JAWA BARAT,2022,September,Perdesaan,Total,477969.0,412890.94
+JAWA BARAT,2022,September,Perkotaan,Makanan,353253.0,304948.97
+JAWA BARAT,2022,September,Perkotaan,Non-Makanan,127531.0,114395.98
+JAWA BARAT,2022,September,Perkotaan,Total,480785.0,424996.68
+JAWA BARAT,2022,September,Perkotaan dan Perdesaan,Makanan,355172.0,305803.93
+JAWA BARAT,2022,September,Perkotaan dan Perdesaan,Non-Makanan,125178.0,110496.15
+JAWA BARAT,2022,September,Perkotaan dan Perdesaan,Total,480350.0,417777.48
+JAWA TENGAH,2021,Maret,Perdesaan,Makanan,302894.0,293611.1
+JAWA TENGAH,2021,Maret,Perdesaan,Non-Makanan,98245.0,96533.74
+JAWA TENGAH,2021,Maret,Perdesaan,Total,401139.0,391027.965
+JAWA TENGAH,2021,Maret,Perkotaan,Makanan,307367.0,295720.465
+JAWA TENGAH,2021,Maret,Perkotaan,Non-Makanan,109458.0,106956.59
+JAWA TENGAH,2021,Maret,Perkotaan,Total,416825.0,403347.69
+JAWA TENGAH,2021,Maret,Perkotaan dan Perdesaan,Makanan,305149.0,294335.41
+JAWA TENGAH,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,104044.0,102764.14
+JAWA TENGAH,2021,Maret,Perkotaan dan Perdesaan,Total,409193.0,396463.79
+JAWA TENGAH,2021,September,Perdesaan,Makanan,318487.0,296722.79
+JAWA TENGAH,2021,September,Perdesaan,Non-Makanan,100578.0,96966.435
+JAWA TENGAH,2021,September,Perdesaan,Total,419064.0,393685.355
+JAWA TENGAH,2021,September,Perkotaan,Makanan,316590.0,298610.855
+JAWA TENGAH,2021,September,Perkotaan,Non-Makanan,110509.0,107371.765
+JAWA TENGAH,2021,September,Perkotaan,Total,427099.0,405774.96
+JAWA TENGAH,2021,September,Perkotaan dan Perdesaan,Makanan,317519.0,297273.11
+JAWA TENGAH,2021,September,Perkotaan dan Perdesaan,Non-Makanan,105745.0,103249.585
+JAWA TENGAH,2021,September,Perkotaan dan Perdesaan,Total,423264.0,398815.625
+JAWA TENGAH,2022,Maret,Perdesaan,Makanan,330526.0,293611.1
+JAWA TENGAH,2022,Maret,Perdesaan,Non-Makanan,104259.0,96533.74
+JAWA TENGAH,2022,Maret,Perdesaan,Total,434785.0,391027.965
+JAWA TENGAH,2022,Maret,Perkotaan,Makanan,328539.0,295720.465
+JAWA TENGAH,2022,Maret,Perkotaan,Non-Makanan,113940.0,106956.59
+JAWA TENGAH,2022,Maret,Perkotaan,Total,442479.0,403347.69
+JAWA TENGAH,2022,Maret,Perkotaan dan Perdesaan,Makanan,329511.0,294335.41
+JAWA TENGAH,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,109322.0,102764.14
+JAWA TENGAH,2022,Maret,Perkotaan dan Perdesaan,Total,438833.0,396463.79
+JAWA TENGAH,2022,September,Perdesaan,Makanan,348420.0,296722.79
+JAWA TENGAH,2022,September,Perdesaan,Non-Makanan,111294.0,96966.435
+JAWA TENGAH,2022,September,Perdesaan,Total,459714.0,393685.355
+JAWA TENGAH,2022,September,Perkotaan,Makanan,350614.0,298610.855
+JAWA TENGAH,2022,September,Perkotaan,Non-Makanan,119009.0,107371.765
+JAWA TENGAH,2022,September,Perkotaan,Total,469623.0,405774.96
+JAWA TENGAH,2022,September,Perkotaan dan Perdesaan,Makanan,349523.0,297273.11
+JAWA TENGAH,2022,September,Perkotaan dan Perdesaan,Non-Makanan,115356.0,103249.585
+JAWA TENGAH,2022,September,Perkotaan dan Perdesaan,Total,464879.0,398815.625
+JAWA TIMUR,2021,Maret,Perdesaan,Makanan,316010.0,307950.16
+JAWA TIMUR,2021,Maret,Perdesaan,Non-Makanan,98419.0,96921.84
+JAWA TIMUR,2021,Maret,Perdesaan,Total,414429.0,407001.795
+JAWA TIMUR,2021,Maret,Perkotaan,Makanan,328596.0,316904.115
+JAWA TIMUR,2021,Maret,Perkotaan,Non-Makanan,113113.0,111064.56
+JAWA TIMUR,2021,Maret,Perkotaan,Total,441709.0,432768.985
+JAWA TIMUR,2021,Maret,Perkotaan dan Perdesaan,Makanan,322671.0,312113.825
+JAWA TIMUR,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,106462.0,105706.4
+JAWA TIMUR,2021,Maret,Perkotaan dan Perdesaan,Total,429133.0,419367.845
+JAWA TIMUR,2021,September,Perdesaan,Makanan,327215.0,309704.015
+JAWA TIMUR,2021,September,Perdesaan,Non-Makanan,101242.0,97367.41
+JAWA TIMUR,2021,September,Perdesaan,Total,428457.0,410074.765
+JAWA TIMUR,2021,September,Perkotaan,Makanan,344429.0,317441.535
+JAWA TIMUR,2021,September,Perkotaan,Non-Makanan,115011.0,111415.885
+JAWA TIMUR,2021,September,Perkotaan,Total,459440.0,433423.655
+JAWA TIMUR,2021,September,Perkotaan dan Perdesaan,Makanan,336315.0,313370.65
+JAWA TIMUR,2021,September,Perkotaan dan Perdesaan,Non-Makanan,108825.0,106206.545
+JAWA TIMUR,2021,September,Perkotaan dan Perdesaan,Total,445140.0,421569.51
+JAWA TIMUR,2022,Maret,Perdesaan,Makanan,341452.0,307950.16
+JAWA TIMUR,2022,Maret,Perdesaan,Non-Makanan,104924.0,96921.84
+JAWA TIMUR,2022,Maret,Perdesaan,Total,446375.0,407001.795
+JAWA TIMUR,2022,Maret,Perkotaan,Makanan,354405.0,316904.115
+JAWA TIMUR,2022,Maret,Perkotaan,Non-Makanan,118612.0,111064.56
+JAWA TIMUR,2022,Maret,Perkotaan,Total,473017.0,432768.985
+JAWA TIMUR,2022,Maret,Perkotaan dan Perdesaan,Makanan,348399.0,312113.825
+JAWA TIMUR,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,112510.0,105706.4
+JAWA TIMUR,2022,Maret,Perkotaan dan Perdesaan,Total,460909.0,419367.845
+JAWA TIMUR,2022,September,Perdesaan,Makanan,361913.0,309704.015
+JAWA TIMUR,2022,September,Perdesaan,Non-Makanan,111568.0,97367.41
+JAWA TIMUR,2022,September,Perdesaan,Total,473481.0,410074.765
+JAWA TIMUR,2022,September,Perkotaan,Makanan,374630.0,317441.535
+JAWA TIMUR,2022,September,Perkotaan,Non-Makanan,125139.0,111415.885
+JAWA TIMUR,2022,September,Perkotaan,Total,499769.0,433423.655
+JAWA TIMUR,2022,September,Perkotaan dan Perdesaan,Makanan,368771.0,313370.65
+JAWA TIMUR,2022,September,Perkotaan dan Perdesaan,Non-Makanan,119136.0,106206.545
+JAWA TIMUR,2022,September,Perkotaan dan Perdesaan,Total,487907.0,421569.51
+KALIMANTAN BARAT,2021,Maret,Perdesaan,Makanan,360819.0,354030.53
+KALIMANTAN BARAT,2021,Maret,Perdesaan,Non-Makanan,106543.0,103773.11
+KALIMANTAN BARAT,2021,Maret,Perdesaan,Total,467362.0,455066.445
+KALIMANTAN BARAT,2021,Maret,Perkotaan,Makanan,388798.0,373917.055
+KALIMANTAN BARAT,2021,Maret,Perkotaan,Non-Makanan,124543.0,119667.265
+KALIMANTAN BARAT,2021,Maret,Perkotaan,Total,513341.0,498844.125
+KALIMANTAN BARAT,2021,Maret,Perkotaan dan Perdesaan,Makanan,370423.0,360999.575
+KALIMANTAN BARAT,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,113031.0,110351.19
+KALIMANTAN BARAT,2021,Maret,Perkotaan dan Perdesaan,Total,483454.0,470117.925
+KALIMANTAN BARAT,2021,September,Perdesaan,Makanan,377369.0,356486.075
+KALIMANTAN BARAT,2021,September,Perdesaan,Non-Makanan,109174.0,104531.685
+KALIMANTAN BARAT,2021,September,Perdesaan,Total,486544.0,456924.595
+KALIMANTAN BARAT,2021,September,Perkotaan,Makanan,407296.0,376777.03
+KALIMANTAN BARAT,2021,September,Perkotaan,Non-Makanan,133177.0,120646.295
+KALIMANTAN BARAT,2021,September,Perkotaan,Total,540474.0,501209.28
+KALIMANTAN BARAT,2021,September,Perkotaan dan Perdesaan,Makanan,387342.0,362767.47
+KALIMANTAN BARAT,2021,September,Perkotaan dan Perdesaan,Non-Makanan,117885.0,110997.035
+KALIMANTAN BARAT,2021,September,Perkotaan dan Perdesaan,Total,505227.0,472656.16
+KALIMANTAN BARAT,2022,Maret,Perdesaan,Makanan,387226.0,354030.53
+KALIMANTAN BARAT,2022,Maret,Perdesaan,Non-Makanan,112823.0,103773.11
+KALIMANTAN BARAT,2022,Maret,Perdesaan,Total,500049.0,455066.445
+KALIMANTAN BARAT,2022,Maret,Perkotaan,Makanan,418006.0,373917.055
+KALIMANTAN BARAT,2022,Maret,Perkotaan,Non-Makanan,140781.0,119667.265
+KALIMANTAN BARAT,2022,Maret,Perkotaan,Total,558787.0,498844.125
+KALIMANTAN BARAT,2022,Maret,Perkotaan dan Perdesaan,Makanan,397561.0,360999.575
+KALIMANTAN BARAT,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,123099.0,110351.19
+KALIMANTAN BARAT,2022,Maret,Perkotaan dan Perdesaan,Total,520660.0,470117.925
+KALIMANTAN BARAT,2022,September,Perdesaan,Makanan,407998.0,356486.075
+KALIMANTAN BARAT,2022,September,Perdesaan,Non-Makanan,121058.0,104531.685
+KALIMANTAN BARAT,2022,September,Perdesaan,Total,529055.0,456924.595
+KALIMANTAN BARAT,2022,September,Perkotaan,Makanan,445660.0,376777.03
+KALIMANTAN BARAT,2022,September,Perkotaan,Non-Makanan,146772.0,120646.295
+KALIMANTAN BARAT,2022,September,Perkotaan,Total,592432.0,501209.28
+KALIMANTAN BARAT,2022,September,Perkotaan dan Perdesaan,Makanan,421139.0,362767.47
+KALIMANTAN BARAT,2022,September,Perkotaan dan Perdesaan,Non-Makanan,130528.0,110997.035
+KALIMANTAN BARAT,2022,September,Perkotaan dan Perdesaan,Total,551667.0,472656.16
+KALIMANTAN SELATAN,2021,Maret,Perdesaan,Makanan,384188.0,365634.44
+KALIMANTAN SELATAN,2021,Maret,Perdesaan,Non-Makanan,126184.0,117396.155
+KALIMANTAN SELATAN,2021,Maret,Perdesaan,Total,510372.0,487018.01
+KALIMANTAN SELATAN,2021,Maret,Perkotaan,Makanan,356053.0,341260.485
+KALIMANTAN SELATAN,2021,Maret,Perkotaan,Non-Makanan,171187.0,164245.95
+KALIMANTAN SELATAN,2021,Maret,Perkotaan,Total,527240.0,502965.24
+KALIMANTAN SELATAN,2021,Maret,Perkotaan dan Perdesaan,Makanan,371204.0,356204.115
+KALIMANTAN SELATAN,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,147946.0,139404.2
+KALIMANTAN SELATAN,2021,Maret,Perkotaan dan Perdesaan,Total,519150.0,495640.98
+KALIMANTAN SELATAN,2021,September,Perdesaan,Makanan,389770.0,369139.245
+KALIMANTAN SELATAN,2021,September,Perdesaan,Non-Makanan,127523.0,119453.88
+KALIMANTAN SELATAN,2021,September,Perdesaan,Total,517293.0,491823.565
+KALIMANTAN SELATAN,2021,September,Perkotaan,Makanan,362027.0,345688.525
+KALIMANTAN SELATAN,2021,September,Perkotaan,Non-Makanan,174014.0,165213.65
+KALIMANTAN SELATAN,2021,September,Perkotaan,Total,536041.0,505519.475
+KALIMANTAN SELATAN,2021,September,Perkotaan dan Perdesaan,Makanan,376894.0,359097.885
+KALIMANTAN SELATAN,2021,September,Perkotaan dan Perdesaan,Non-Makanan,150151.0,141500.67
+KALIMANTAN SELATAN,2021,September,Perkotaan dan Perdesaan,Total,527045.0,499586.635
+KALIMANTAN SELATAN,2022,Maret,Perdesaan,Makanan,411135.0,365634.44
+KALIMANTAN SELATAN,2022,Maret,Perdesaan,Non-Makanan,133660.0,117396.155
+KALIMANTAN SELATAN,2022,Maret,Perdesaan,Total,544795.0,487018.01
+KALIMANTAN SELATAN,2022,Maret,Perkotaan,Makanan,379337.0,341260.485
+KALIMANTAN SELATAN,2022,Maret,Perkotaan,Non-Makanan,180716.0,164245.95
+KALIMANTAN SELATAN,2022,Maret,Perkotaan,Total,560053.0,502965.24
+KALIMANTAN SELATAN,2022,Maret,Perkotaan dan Perdesaan,Makanan,396308.0,356204.115
+KALIMANTAN SELATAN,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,156765.0,139404.2
+KALIMANTAN SELATAN,2022,Maret,Perkotaan dan Perdesaan,Total,553073.0,495640.98
+KALIMANTAN SELATAN,2022,September,Perdesaan,Makanan,431084.0,369139.245
+KALIMANTAN SELATAN,2022,September,Perdesaan,Non-Makanan,141833.0,119453.88
+KALIMANTAN SELATAN,2022,September,Perdesaan,Total,572917.0,491823.565
+KALIMANTAN SELATAN,2022,September,Perkotaan,Makanan,399109.0,345688.525
+KALIMANTAN SELATAN,2022,September,Perkotaan,Non-Makanan,189362.0,165213.65
+KALIMANTAN SELATAN,2022,September,Perkotaan,Total,588472.0,505519.475
+KALIMANTAN SELATAN,2022,September,Perkotaan dan Perdesaan,Makanan,415976.0,359097.885
+KALIMANTAN SELATAN,2022,September,Perkotaan dan Perdesaan,Non-Makanan,165254.0,141500.67
+KALIMANTAN SELATAN,2022,September,Perkotaan dan Perdesaan,Total,581230.0,499586.635
+KALIMANTAN TENGAH,2021,Maret,Perdesaan,Makanan,412878.0,390426.44
+KALIMANTAN TENGAH,2021,Maret,Perdesaan,Non-Makanan,101865.0,96223.47
+KALIMANTAN TENGAH,2021,Maret,Perdesaan,Total,514743.0,489358.535
+KALIMANTAN TENGAH,2021,Maret,Perkotaan,Makanan,371472.0,362841.53
+KALIMANTAN TENGAH,2021,Maret,Perkotaan,Non-Makanan,122681.0,114090.51
+KALIMANTAN TENGAH,2021,Maret,Perkotaan,Total,494153.0,475442.805
+KALIMANTAN TENGAH,2021,Maret,Perkotaan dan Perdesaan,Makanan,396514.0,381541.85
+KALIMANTAN TENGAH,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,110468.0,103746.925
+KALIMANTAN TENGAH,2021,Maret,Perkotaan dan Perdesaan,Total,506982.0,486627.425
+KALIMANTAN TENGAH,2021,September,Perdesaan,Makanan,429419.0,395427.05
+KALIMANTAN TENGAH,2021,September,Perdesaan,Non-Makanan,107716.0,97189.345
+KALIMANTAN TENGAH,2021,September,Perdesaan,Total,537135.0,493987.99
+KALIMANTAN TENGAH,2021,September,Perkotaan,Makanan,374314.0,365551.07
+KALIMANTAN TENGAH,2021,September,Perkotaan,Non-Makanan,125240.0,115915.465
+KALIMANTAN TENGAH,2021,September,Perkotaan,Total,499553.0,478971.155
+KALIMANTAN TENGAH,2021,September,Perkotaan dan Perdesaan,Makanan,407871.0,384599.2
+KALIMANTAN TENGAH,2021,September,Perkotaan dan Perdesaan,Non-Makanan,115008.0,105048.17
+KALIMANTAN TENGAH,2021,September,Perkotaan dan Perdesaan,Total,522879.0,491030.88
+KALIMANTAN TENGAH,2022,Maret,Perdesaan,Makanan,451136.0,390426.44
+KALIMANTAN TENGAH,2022,Maret,Perdesaan,Non-Makanan,114225.0,96223.47
+KALIMANTAN TENGAH,2022,Maret,Perdesaan,Total,565361.0,489358.535
+KALIMANTAN TENGAH,2022,Maret,Perkotaan,Makanan,392777.0,362841.53
+KALIMANTAN TENGAH,2022,Maret,Perkotaan,Non-Makanan,132451.0,114090.51
+KALIMANTAN TENGAH,2022,Maret,Perkotaan,Total,525228.0,475442.805
+KALIMANTAN TENGAH,2022,Maret,Perkotaan dan Perdesaan,Makanan,426914.0,381541.85
+KALIMANTAN TENGAH,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,121903.0,103746.925
+KALIMANTAN TENGAH,2022,Maret,Perkotaan dan Perdesaan,Total,548817.0,486627.425
+KALIMANTAN TENGAH,2022,September,Perdesaan,Makanan,478269.0,395427.05
+KALIMANTAN TENGAH,2022,September,Perdesaan,Non-Makanan,124756.0,97189.345
+KALIMANTAN TENGAH,2022,September,Perdesaan,Total,603025.0,493987.99
+KALIMANTAN TENGAH,2022,September,Perkotaan,Makanan,416222.0,365551.07
+KALIMANTAN TENGAH,2022,September,Perkotaan,Non-Makanan,140978.0,115915.465
+KALIMANTAN TENGAH,2022,September,Perkotaan,Total,557200.0,478971.155
+KALIMANTAN TENGAH,2022,September,Perkotaan dan Perdesaan,Makanan,453342.0,384599.2
+KALIMANTAN TENGAH,2022,September,Perkotaan dan Perdesaan,Non-Makanan,131597.0,105048.17
+KALIMANTAN TENGAH,2022,September,Perkotaan dan Perdesaan,Total,584939.0,491030.88
+KALIMANTAN TIMUR,2021,Maret,Perdesaan,Makanan,498601.0,478358.84
+KALIMANTAN TIMUR,2021,Maret,Perdesaan,Non-Makanan,175035.0,167468.25
+KALIMANTAN TIMUR,2021,Maret,Perdesaan,Total,673636.0,655729.605
+KALIMANTAN TIMUR,2021,Maret,Perkotaan,Makanan,479168.0,457547.115
+KALIMANTAN TIMUR,2021,Maret,Perkotaan,Non-Makanan,216656.0,207538.015
+KALIMANTAN TIMUR,2021,Maret,Perkotaan,Total,695824.0,664823.955
+KALIMANTAN TIMUR,2021,Maret,Perkotaan dan Perdesaan,Makanan,485445.0,463949.12
+KALIMANTAN TIMUR,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,203590.0,193706.31
+KALIMANTAN TIMUR,2021,Maret,Perkotaan dan Perdesaan,Total,689035.0,663188.62
+KALIMANTAN TIMUR,2021,September,Perdesaan,Makanan,509282.0,481322.205
+KALIMANTAN TIMUR,2021,September,Perdesaan,Non-Makanan,183628.0,169256.345
+KALIMANTAN TIMUR,2021,September,Perdesaan,Total,692910.0,659199.91
+KALIMANTAN TIMUR,2021,September,Perkotaan,Makanan,488748.0,461969.255
+KALIMANTAN TIMUR,2021,September,Perkotaan,Non-Makanan,218138.0,210785.33
+KALIMANTAN TIMUR,2021,September,Perkotaan,Total,706886.0,671180.23
+KALIMANTAN TIMUR,2021,September,Perkotaan dan Perdesaan,Makanan,495785.0,468026.715
+KALIMANTAN TIMUR,2021,September,Perkotaan dan Perdesaan,Non-Makanan,207438.0,196455.425
+KALIMANTAN TIMUR,2021,September,Perkotaan dan Perdesaan,Total,703223.0,667791.225
+KALIMANTAN TIMUR,2022,Maret,Perdesaan,Makanan,526674.0,478358.84
+KALIMANTAN TIMUR,2022,Maret,Perdesaan,Non-Makanan,191875.0,167468.25
+KALIMANTAN TIMUR,2022,Maret,Perdesaan,Total,718550.0,655729.605
+KALIMANTAN TIMUR,2022,Maret,Perkotaan,Makanan,507661.0,457547.115
+KALIMANTAN TIMUR,2022,Maret,Perkotaan,Non-Makanan,224534.0,207538.015
+KALIMANTAN TIMUR,2022,Maret,Perkotaan,Total,732195.0,664823.955
+KALIMANTAN TIMUR,2022,Maret,Perkotaan dan Perdesaan,Makanan,513874.0,463949.12
+KALIMANTAN TIMUR,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,214334.0,193706.31
+KALIMANTAN TIMUR,2022,Maret,Perkotaan dan Perdesaan,Total,728208.0,663188.62
+KALIMANTAN TIMUR,2022,September,Perdesaan,Makanan,556626.0,481322.205
+KALIMANTAN TIMUR,2022,September,Perdesaan,Non-Makanan,201939.0,169256.345
+KALIMANTAN TIMUR,2022,September,Perdesaan,Total,758565.0,659199.91
+KALIMANTAN TIMUR,2022,September,Perkotaan,Makanan,541868.0,461969.255
+KALIMANTAN TIMUR,2022,September,Perkotaan,Non-Makanan,230245.0,210785.33
+KALIMANTAN TIMUR,2022,September,Perkotaan,Total,772112.0,671180.23
+KALIMANTAN TIMUR,2022,September,Perkotaan dan Perdesaan,Makanan,546669.0,468026.715
+KALIMANTAN TIMUR,2022,September,Perkotaan dan Perdesaan,Non-Makanan,221451.0,196455.425
+KALIMANTAN TIMUR,2022,September,Perkotaan dan Perdesaan,Total,768120.0,667791.225
+KALIMANTAN UTARA,2021,Maret,Perdesaan,Makanan,484174.0,464488.015
+KALIMANTAN UTARA,2021,Maret,Perdesaan,Non-Makanan,181789.0,171703.135
+KALIMANTAN UTARA,2021,Maret,Perdesaan,Total,665963.0,633959.235
+KALIMANTAN UTARA,2021,Maret,Perkotaan,Makanan,546681.0,518229.78
+KALIMANTAN UTARA,2021,Maret,Perkotaan,Non-Makanan,192586.0,187959.79
+KALIMANTAN UTARA,2021,Maret,Perkotaan,Total,739267.0,707198.82
+KALIMANTAN UTARA,2021,Maret,Perkotaan dan Perdesaan,Makanan,522517.0,498983.425
+KALIMANTAN UTARA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,188477.0,181471.895
+KALIMANTAN UTARA,2021,Maret,Perkotaan dan Perdesaan,Total,710994.0,679565.02
+KALIMANTAN UTARA,2021,September,Perdesaan,Makanan,496468.0,470100.365
+KALIMANTAN UTARA,2021,September,Perdesaan,Non-Makanan,188114.0,176143.305
+KALIMANTAN UTARA,2021,September,Perdesaan,Total,684582.0,644844.54
+KALIMANTAN UTARA,2021,September,Perkotaan,Makanan,556182.0,526316.61
+KALIMANTAN UTARA,2021,September,Perkotaan,Non-Makanan,205658.0,189280.28
+KALIMANTAN UTARA,2021,September,Perkotaan,Total,761840.0,716398.25
+KALIMANTAN UTARA,2021,September,Perkotaan dan Perdesaan,Makanan,531302.0,505318.875
+KALIMANTAN UTARA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,199041.0,183985.355
+KALIMANTAN UTARA,2021,September,Perkotaan dan Perdesaan,Total,730343.0,689802.805
+KALIMANTAN UTARA,2022,Maret,Perdesaan,Makanan,525335.0,464488.015
+KALIMANTAN UTARA,2022,Maret,Perdesaan,Non-Makanan,194647.0,171703.135
+KALIMANTAN UTARA,2022,Maret,Perdesaan,Total,719982.0,633959.235
+KALIMANTAN UTARA,2022,Maret,Perkotaan,Makanan,591239.0,518229.78
+KALIMANTAN UTARA,2022,Maret,Perkotaan,Non-Makanan,213278.0,187959.79
+KALIMANTAN UTARA,2022,Maret,Perkotaan,Total,804517.0,707198.82
+KALIMANTAN UTARA,2022,Maret,Perkotaan dan Perdesaan,Makanan,566292.0,498983.425
+KALIMANTAN UTARA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,206622.0,181471.895
+KALIMANTAN UTARA,2022,Maret,Perkotaan dan Perdesaan,Total,772914.0,679565.02
+KALIMANTAN UTARA,2022,September,Perdesaan,Makanan,548026.0,470100.365
+KALIMANTAN UTARA,2022,September,Perdesaan,Non-Makanan,202380.0,176143.305
+KALIMANTAN UTARA,2022,September,Perdesaan,Total,750406.0,644844.54
+KALIMANTAN UTARA,2022,September,Perkotaan,Makanan,616790.0,526316.61
+KALIMANTAN UTARA,2022,September,Perkotaan,Non-Makanan,217984.0,189280.28
+KALIMANTAN UTARA,2022,September,Perkotaan,Total,834774.0,716398.25
+KALIMANTAN UTARA,2022,September,Perkotaan dan Perdesaan,Makanan,590192.0,505318.875
+KALIMANTAN UTARA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,212374.0,183985.355
+KALIMANTAN UTARA,2022,September,Perkotaan dan Perdesaan,Total,802566.0,689802.805
+KEP. BANGKA BELITUNG,2021,Maret,Perdesaan,Makanan,566074.0,534725.98
+KEP. BANGKA BELITUNG,2021,Maret,Perdesaan,Non-Makanan,202340.0,189188.61
+KEP. BANGKA BELITUNG,2021,Maret,Perdesaan,Total,768414.0,727834.56
+KEP. BANGKA BELITUNG,2021,Maret,Perkotaan,Makanan,525236.0,506816.16
+KEP. BANGKA BELITUNG,2021,Maret,Perkotaan,Non-Makanan,212698.0,200803.225
+KEP. BANGKA BELITUNG,2021,Maret,Perkotaan,Total,737934.0,712156.665
+KEP. BANGKA BELITUNG,2021,Maret,Perkotaan dan Perdesaan,Makanan,544017.0,521367.475
+KEP. BANGKA BELITUNG,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,208186.0,195532.065
+KEP. BANGKA BELITUNG,2021,Maret,Perkotaan dan Perdesaan,Total,752203.0,720919.095
+KEP. BANGKA BELITUNG,2021,September,Perdesaan,Makanan,576533.0,541001.165
+KEP. BANGKA BELITUNG,2021,September,Perdesaan,Non-Makanan,214613.0,190484.79
+KEP. BANGKA BELITUNG,2021,September,Perdesaan,Total,791146.0,732880.205
+KEP. BANGKA BELITUNG,2021,September,Perkotaan,Makanan,538158.0,513534.715
+KEP. BANGKA BELITUNG,2021,September,Perkotaan,Non-Makanan,215609.0,203228.865
+KEP. BANGKA BELITUNG,2021,September,Perkotaan,Total,753768.0,716386.615
+KEP. BANGKA BELITUNG,2021,September,Perkotaan dan Perdesaan,Makanan,555279.0,526659.76
+KEP. BANGKA BELITUNG,2021,September,Perkotaan dan Perdesaan,Non-Makanan,215178.0,196721.815
+KEP. BANGKA BELITUNG,2021,September,Perkotaan dan Perdesaan,Total,770457.0,725082.64
+KEP. BANGKA BELITUNG,2022,Maret,Perdesaan,Makanan,600254.0,534725.98
+KEP. BANGKA BELITUNG,2022,Maret,Perdesaan,Non-Makanan,220289.0,189188.61
+KEP. BANGKA BELITUNG,2022,Maret,Perdesaan,Total,820543.0,727834.56
+KEP. BANGKA BELITUNG,2022,Maret,Perkotaan,Makanan,561881.0,506816.16
+KEP. BANGKA BELITUNG,2022,Maret,Perkotaan,Non-Makanan,223107.0,200803.225
+KEP. BANGKA BELITUNG,2022,Maret,Perkotaan,Total,784988.0,712156.665
+KEP. BANGKA BELITUNG,2022,Maret,Perkotaan dan Perdesaan,Makanan,579537.0,521367.475
+KEP. BANGKA BELITUNG,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,221901.0,195532.065
+KEP. BANGKA BELITUNG,2022,Maret,Perkotaan dan Perdesaan,Total,801438.0,720919.095
+KEP. BANGKA BELITUNG,2022,September,Perdesaan,Makanan,641806.0,541001.165
+KEP. BANGKA BELITUNG,2022,September,Perdesaan,Non-Makanan,231037.0,190484.79
+KEP. BANGKA BELITUNG,2022,September,Perdesaan,Total,872843.0,732880.205
+KEP. BANGKA BELITUNG,2022,September,Perkotaan,Makanan,605177.0,513534.715
+KEP. BANGKA BELITUNG,2022,September,Perkotaan,Non-Makanan,231249.0,203228.865
+KEP. BANGKA BELITUNG,2022,September,Perkotaan,Total,836425.0,716386.615
+KEP. BANGKA BELITUNG,2022,September,Perkotaan dan Perdesaan,Makanan,622068.0,526659.76
+KEP. BANGKA BELITUNG,2022,September,Perkotaan dan Perdesaan,Non-Makanan,231158.0,196721.815
+KEP. BANGKA BELITUNG,2022,September,Perkotaan dan Perdesaan,Total,853226.0,725082.64
+KEP. RIAU,2021,Maret,Perdesaan,Makanan,458274.0,434799.005
+KEP. RIAU,2021,Maret,Perdesaan,Non-Makanan,156472.0,151461.27
+KEP. RIAU,2021,Maret,Perdesaan,Total,614746.0,590045.12
+KEP. RIAU,2021,Maret,Perkotaan,Makanan,426912.0,408705.875
+KEP. RIAU,2021,Maret,Perkotaan,Non-Makanan,217689.0,208943.24
+KEP. RIAU,2021,Maret,Perkotaan,Total,644601.0,615475.05
+KEP. RIAU,2021,Maret,Perkotaan dan Perdesaan,Makanan,429298.0,411306.335
+KEP. RIAU,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,213127.0,203196.615
+KEP. RIAU,2021,Maret,Perkotaan dan Perdesaan,Total,642425.0,613344.145
+KEP. RIAU,2021,September,Perdesaan,Makanan,467527.0,438150.335
+KEP. RIAU,2021,September,Perdesaan,Non-Makanan,159285.0,152552.11
+KEP. RIAU,2021,September,Perdesaan,Total,626811.0,595901.36
+KEP. RIAU,2021,September,Perkotaan,Makanan,429830.0,409647.2
+KEP. RIAU,2021,September,Perkotaan,Non-Makanan,225676.0,210093.755
+KEP. RIAU,2021,September,Perkotaan,Total,655506.0,617619.805
+KEP. RIAU,2021,September,Perkotaan dan Perdesaan,Makanan,432804.0,412019.925
+KEP. RIAU,2021,September,Perkotaan dan Perdesaan,Non-Makanan,221050.0,205015.85
+KEP. RIAU,2021,September,Perkotaan dan Perdesaan,Total,653854.0,616019.245
+KEP. RIAU,2022,Maret,Perdesaan,Makanan,496488.0,434799.005
+KEP. RIAU,2022,Maret,Perdesaan,Non-Makanan,162820.0,151461.27
+KEP. RIAU,2022,Maret,Perdesaan,Total,659308.0,590045.12
+KEP. RIAU,2022,Maret,Perkotaan,Makanan,453563.0,408705.875
+KEP. RIAU,2022,Maret,Perkotaan,Non-Makanan,233682.0,208943.24
+KEP. RIAU,2022,Maret,Perkotaan,Total,687245.0,615475.05
+KEP. RIAU,2022,Maret,Perkotaan dan Perdesaan,Makanan,458362.0,411306.335
+KEP. RIAU,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,225707.0,203196.615
+KEP. RIAU,2022,Maret,Perkotaan dan Perdesaan,Total,684069.0,613344.145
+KEP. RIAU,2022,September,Perdesaan,Makanan,525085.0,438150.335
+KEP. RIAU,2022,September,Perdesaan,Non-Makanan,172647.0,152552.11
+KEP. RIAU,2022,September,Perdesaan,Total,697732.0,595901.36
+KEP. RIAU,2022,September,Perkotaan,Makanan,486016.0,409647.2
+KEP. RIAU,2022,September,Perkotaan,Non-Makanan,247232.0,210093.755
+KEP. RIAU,2022,September,Perkotaan,Total,733248.0,617619.805
+KEP. RIAU,2022,September,Perkotaan dan Perdesaan,Makanan,491238.0,412019.925
+KEP. RIAU,2022,September,Perkotaan dan Perdesaan,Non-Makanan,239224.0,205015.85
+KEP. RIAU,2022,September,Perkotaan dan Perdesaan,Total,730462.0,616019.245
+LAMPUNG,2021,Maret,Perdesaan,Makanan,347870.0,336510.095
+LAMPUNG,2021,Maret,Perdesaan,Non-Makanan,103341.0,100151.705
+LAMPUNG,2021,Maret,Perdesaan,Total,451211.0,435664.91
+LAMPUNG,2021,Maret,Perkotaan,Makanan,375720.0,360277.0
+LAMPUNG,2021,Maret,Perkotaan,Non-Makanan,140283.0,135837.51
+LAMPUNG,2021,Maret,Perkotaan,Total,516003.0,498554.74
+LAMPUNG,2021,Maret,Perkotaan dan Perdesaan,Makanan,356329.0,345337.285
+LAMPUNG,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,115110.0,111280.395
+LAMPUNG,2021,Maret,Perkotaan dan Perdesaan,Total,471439.0,455287.505
+LAMPUNG,2021,September,Perdesaan,Makanan,361365.0,338414.49
+LAMPUNG,2021,September,Perdesaan,Non-Makanan,111553.0,100740.375
+LAMPUNG,2021,September,Perdesaan,Total,472918.0,437561.17
+LAMPUNG,2021,September,Perkotaan,Makanan,392074.0,361272.2
+LAMPUNG,2021,September,Perkotaan,Non-Makanan,143059.0,137179.225
+LAMPUNG,2021,September,Perkotaan,Total,535133.0,501675.62
+LAMPUNG,2021,September,Perkotaan dan Perdesaan,Makanan,370907.0,347221.7
+LAMPUNG,2021,September,Perkotaan dan Perdesaan,Non-Makanan,121713.0,112607.055
+LAMPUNG,2021,September,Perkotaan dan Perdesaan,Total,492620.0,457207.36
+LAMPUNG,2022,Maret,Perdesaan,Makanan,372425.0,336510.095
+LAMPUNG,2022,Maret,Perdesaan,Non-Makanan,120198.0,100151.705
+LAMPUNG,2022,Maret,Perdesaan,Total,492623.0,435664.91
+LAMPUNG,2022,Maret,Perkotaan,Makanan,412358.0,360277.0
+LAMPUNG,2022,Maret,Perkotaan,Non-Makanan,148109.0,135837.51
+LAMPUNG,2022,Maret,Perkotaan,Total,560467.0,498554.74
+LAMPUNG,2022,Maret,Perkotaan dan Perdesaan,Makanan,384769.0,345337.285
+LAMPUNG,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,129270.0,111280.395
+LAMPUNG,2022,Maret,Perkotaan dan Perdesaan,Total,514039.0,455287.505
+LAMPUNG,2022,September,Perdesaan,Makanan,392553.0,338414.49
+LAMPUNG,2022,September,Perdesaan,Non-Makanan,130606.0,100740.375
+LAMPUNG,2022,September,Perdesaan,Total,523159.0,437561.17
+LAMPUNG,2022,September,Perkotaan,Makanan,439148.0,361272.2
+LAMPUNG,2022,September,Perkotaan,Non-Makanan,156844.0,137179.225
+LAMPUNG,2022,September,Perkotaan,Total,595992.0,501675.62
+LAMPUNG,2022,September,Perkotaan dan Perdesaan,Makanan,406732.0,347221.7
+LAMPUNG,2022,September,Perkotaan dan Perdesaan,Non-Makanan,139260.0,112607.055
+LAMPUNG,2022,September,Perkotaan dan Perdesaan,Total,545992.0,457207.36
+MALUKU,2021,Maret,Perdesaan,Makanan,440977.0,422677.765
+MALUKU,2021,Maret,Perdesaan,Non-Makanan,139669.0,122822.235
+MALUKU,2021,Maret,Perdesaan,Total,580646.0,543773.125
+MALUKU,2021,Maret,Perkotaan,Makanan,431414.0,410890.775
+MALUKU,2021,Maret,Perkotaan,Non-Makanan,165150.0,150313.61
+MALUKU,2021,Maret,Perkotaan,Total,596564.0,557334.51
+MALUKU,2021,Maret,Perkotaan dan Perdesaan,Makanan,436876.0,418910.905
+MALUKU,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,150854.0,134824.265
+MALUKU,2021,Maret,Perkotaan dan Perdesaan,Total,587730.0,550931.17
+MALUKU,2021,September,Perdesaan,Makanan,457656.0,431213.425
+MALUKU,2021,September,Perdesaan,Non-Makanan,142688.0,126786.3
+MALUKU,2021,September,Perdesaan,Total,600344.0,561645.75
+MALUKU,2021,September,Perkotaan,Makanan,441674.0,420642.86
+MALUKU,2021,September,Perkotaan,Non-Makanan,171643.0,155614.21
+MALUKU,2021,September,Perkotaan,Total,613316.0,577610.96
+MALUKU,2021,September,Perkotaan dan Perdesaan,Makanan,450442.0,426733.495
+MALUKU,2021,September,Perkotaan dan Perdesaan,Non-Makanan,155467.0,139112.095
+MALUKU,2021,September,Perkotaan dan Perdesaan,Total,605909.0,569499.35
+MALUKU,2022,Maret,Perdesaan,Makanan,473778.0,422677.765
+MALUKU,2022,Maret,Perdesaan,Non-Makanan,151424.0,122822.235
+MALUKU,2022,Maret,Perdesaan,Total,625202.0,543773.125
+MALUKU,2022,Maret,Perkotaan,Makanan,460569.0,410890.775
+MALUKU,2022,Maret,Perkotaan,Non-Makanan,178780.0,150313.61
+MALUKU,2022,Maret,Perkotaan,Total,639349.0,557334.51
+MALUKU,2022,Maret,Perkotaan dan Perdesaan,Makanan,468335.0,418910.905
+MALUKU,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,162991.0,134824.265
+MALUKU,2022,Maret,Perkotaan dan Perdesaan,Total,631326.0,550931.17
+MALUKU,2022,September,Perdesaan,Makanan,497638.0,431213.425
+MALUKU,2022,September,Perdesaan,Non-Makanan,166486.0,126786.3
+MALUKU,2022,September,Perdesaan,Total,664124.0,561645.75
+MALUKU,2022,September,Perkotaan,Makanan,495440.0,420642.86
+MALUKU,2022,September,Perkotaan,Non-Makanan,187267.0,155614.21
+MALUKU,2022,September,Perkotaan,Total,682707.0,577610.96
+MALUKU,2022,September,Perkotaan dan Perdesaan,Makanan,496691.0,426733.495
+MALUKU,2022,September,Perkotaan dan Perdesaan,Non-Makanan,175765.0,139112.095
+MALUKU,2022,September,Perkotaan dan Perdesaan,Total,672456.0,569499.35
+MALUKU UTARA,2021,Maret,Perdesaan,Makanan,376259.0,356870.67
+MALUKU UTARA,2021,Maret,Perdesaan,Non-Makanan,102193.0,96024.17
+MALUKU UTARA,2021,Maret,Perdesaan,Total,478452.0,451327.28
+MALUKU UTARA,2021,Maret,Perkotaan,Makanan,383780.0,360492.815
+MALUKU UTARA,2021,Maret,Perkotaan,Non-Makanan,132670.0,129095.93
+MALUKU UTARA,2021,Maret,Perkotaan,Total,516450.0,491107.71
+MALUKU UTARA,2021,Maret,Perkotaan dan Perdesaan,Makanan,378475.0,359104.255
+MALUKU UTARA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,110900.0,106094.675
+MALUKU UTARA,2021,Maret,Perkotaan dan Perdesaan,Total,489375.0,463354.48
+MALUKU UTARA,2021,September,Perdesaan,Makanan,390416.0,361103.685
+MALUKU UTARA,2021,September,Perdesaan,Non-Makanan,104581.0,97843.915
+MALUKU UTARA,2021,September,Perdesaan,Total,494997.0,455549.65
+MALUKU UTARA,2021,September,Perkotaan,Makanan,398678.0,363659.15
+MALUKU UTARA,2021,September,Perkotaan,Non-Makanan,134553.0,130421.56
+MALUKU UTARA,2021,September,Perkotaan,Total,533231.0,494560.85
+MALUKU UTARA,2021,September,Perkotaan dan Perdesaan,Makanan,392506.0,362634.365
+MALUKU UTARA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,112927.0,107829.415
+MALUKU UTARA,2021,September,Perkotaan dan Perdesaan,Total,505433.0,467524.695
+MALUKU UTARA,2022,Maret,Perdesaan,Makanan,396637.0,356870.67
+MALUKU UTARA,2022,Maret,Perdesaan,Non-Makanan,106751.0,96024.17
+MALUKU UTARA,2022,Maret,Perdesaan,Total,503388.0,451327.28
+MALUKU UTARA,2022,Maret,Perkotaan,Makanan,405708.0,360492.815
+MALUKU UTARA,2022,Maret,Perkotaan,Non-Makanan,136264.0,129095.93
+MALUKU UTARA,2022,Maret,Perkotaan,Total,541972.0,491107.71
+MALUKU UTARA,2022,Maret,Perkotaan dan Perdesaan,Makanan,399127.0,359104.255
+MALUKU UTARA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,115255.0,106094.675
+MALUKU UTARA,2022,Maret,Perkotaan dan Perdesaan,Total,514382.0,463354.48
+MALUKU UTARA,2022,September,Perdesaan,Makanan,420428.0,361103.685
+MALUKU UTARA,2022,September,Perdesaan,Non-Makanan,111933.0,97843.915
+MALUKU UTARA,2022,September,Perdesaan,Total,532361.0,455549.65
+MALUKU UTARA,2022,September,Perkotaan,Makanan,429919.0,363659.15
+MALUKU UTARA,2022,September,Perkotaan,Non-Makanan,143872.0,130421.56
+MALUKU UTARA,2022,September,Perkotaan,Total,573792.0,494560.85
+MALUKU UTARA,2022,September,Perkotaan dan Perdesaan,Makanan,423139.0,362634.365
+MALUKU UTARA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,121138.0,107829.415
+MALUKU UTARA,2022,September,Perkotaan dan Perdesaan,Total,544277.0,467524.695
+NUSA TENGGARA BARAT,2021,Maret,Perdesaan,Makanan,311567.0,297043.98
+NUSA TENGGARA BARAT,2021,Maret,Perdesaan,Non-Makanan,101079.0,99459.175
+NUSA TENGGARA BARAT,2021,Maret,Perdesaan,Total,412646.0,395653.16
+NUSA TENGGARA BARAT,2021,Maret,Perkotaan,Makanan,325304.0,310895.99
+NUSA TENGGARA BARAT,2021,Maret,Perkotaan,Non-Makanan,109147.0,107032.42
+NUSA TENGGARA BARAT,2021,Maret,Perkotaan,Total,434451.0,422956.055
+NUSA TENGGARA BARAT,2021,Maret,Perkotaan dan Perdesaan,Makanan,318425.0,303314.39
+NUSA TENGGARA BARAT,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,105080.0,103801.325
+NUSA TENGGARA BARAT,2021,Maret,Perkotaan dan Perdesaan,Total,423505.0,407049.035
+NUSA TENGGARA BARAT,2021,September,Perdesaan,Makanan,320916.0,298848.135
+NUSA TENGGARA BARAT,2021,September,Perdesaan,Non-Makanan,109465.0,100063.915
+NUSA TENGGARA BARAT,2021,September,Perdesaan,Total,430381.0,399004.12
+NUSA TENGGARA BARAT,2021,September,Perkotaan,Makanan,336346.0,312416.27
+NUSA TENGGARA BARAT,2021,September,Perkotaan,Non-Makanan,116509.0,107530.225
+NUSA TENGGARA BARAT,2021,September,Perkotaan,Total,452855.0,424789.6
+NUSA TENGGARA BARAT,2021,September,Perkotaan dan Perdesaan,Makanan,328699.0,304989.415
+NUSA TENGGARA BARAT,2021,September,Perkotaan dan Perdesaan,Non-Makanan,113012.0,104221.535
+NUSA TENGGARA BARAT,2021,September,Perkotaan dan Perdesaan,Total,441711.0,409419.37
+NUSA TENGGARA BARAT,2022,Maret,Perdesaan,Makanan,336060.0,297043.98
+NUSA TENGGARA BARAT,2022,Maret,Perdesaan,Non-Makanan,112906.0,99459.175
+NUSA TENGGARA BARAT,2022,Maret,Perdesaan,Total,448965.0,395653.16
+NUSA TENGGARA BARAT,2022,Maret,Perkotaan,Makanan,349371.0,310895.99
+NUSA TENGGARA BARAT,2022,Maret,Perkotaan,Non-Makanan,121061.0,107032.42
+NUSA TENGGARA BARAT,2022,Maret,Perkotaan,Total,470431.0,422956.055
+NUSA TENGGARA BARAT,2022,Maret,Perkotaan dan Perdesaan,Makanan,342789.0,303314.39
+NUSA TENGGARA BARAT,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,117038.0,103801.325
+NUSA TENGGARA BARAT,2022,Maret,Perkotaan dan Perdesaan,Total,459827.0,407049.035
+NUSA TENGGARA BARAT,2022,September,Perdesaan,Makanan,361266.0,298848.135
+NUSA TENGGARA BARAT,2022,September,Perdesaan,Non-Makanan,116558.0,100063.915
+NUSA TENGGARA BARAT,2022,September,Perdesaan,Total,477824.0,399004.12
+NUSA TENGGARA BARAT,2022,September,Perkotaan,Makanan,373497.0,312416.27
+NUSA TENGGARA BARAT,2022,September,Perkotaan,Non-Makanan,128090.0,107530.225
+NUSA TENGGARA BARAT,2022,September,Perkotaan,Total,501586.0,424789.6
+NUSA TENGGARA BARAT,2022,September,Perkotaan dan Perdesaan,Makanan,367535.0,304989.415
+NUSA TENGGARA BARAT,2022,September,Perkotaan dan Perdesaan,Non-Makanan,122419.0,104221.535
+NUSA TENGGARA BARAT,2022,September,Perkotaan dan Perdesaan,Total,489954.0,409419.37
+NUSA TENGGARA TIMUR,2021,Maret,Perdesaan,Makanan,312141.0,309732.88
+NUSA TENGGARA TIMUR,2021,Maret,Perdesaan,Non-Makanan,73829.0,71692.15
+NUSA TENGGARA TIMUR,2021,Maret,Perdesaan,Total,385970.0,378774.085
+NUSA TENGGARA TIMUR,2021,Maret,Perkotaan,Makanan,367201.0,351549.69
+NUSA TENGGARA TIMUR,2021,Maret,Perkotaan,Non-Makanan,141383.0,136620.115
+NUSA TENGGARA TIMUR,2021,Maret,Perkotaan,Total,508584.0,489950.61
+NUSA TENGGARA TIMUR,2021,Maret,Perkotaan dan Perdesaan,Makanan,324545.0,319890.29
+NUSA TENGGARA TIMUR,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,90571.0,88364.15
+NUSA TENGGARA TIMUR,2021,Maret,Perkotaan dan Perdesaan,Total,415116.0,407050.71
+NUSA TENGGARA TIMUR,2021,September,Perdesaan,Makanan,333436.0,310920.255
+NUSA TENGGARA TIMUR,2021,September,Perdesaan,Non-Makanan,75333.0,72237.325
+NUSA TENGGARA TIMUR,2021,September,Perdesaan,Total,408769.0,381201.795
+NUSA TENGGARA TIMUR,2021,September,Perkotaan,Makanan,385169.0,352479.06
+NUSA TENGGARA TIMUR,2021,September,Perkotaan,Non-Makanan,146024.0,138024.13
+NUSA TENGGARA TIMUR,2021,September,Perkotaan,Total,531194.0,491847.84
+NUSA TENGGARA TIMUR,2021,September,Perkotaan dan Perdesaan,Makanan,344666.0,320123.795
+NUSA TENGGARA TIMUR,2021,September,Perkotaan dan Perdesaan,Non-Makanan,92941.0,88983.795
+NUSA TENGGARA TIMUR,2021,September,Perkotaan dan Perdesaan,Total,437607.0,408529.25
+NUSA TENGGARA TIMUR,2022,Maret,Perdesaan,Makanan,344813.0,309732.88
+NUSA TENGGARA TIMUR,2022,Maret,Perdesaan,Non-Makanan,84266.0,71692.15
+NUSA TENGGARA TIMUR,2022,Maret,Perdesaan,Total,429079.0,378774.085
+NUSA TENGGARA TIMUR,2022,Maret,Perkotaan,Makanan,402228.0,351549.69
+NUSA TENGGARA TIMUR,2022,Maret,Perkotaan,Non-Makanan,156513.0,136620.115
+NUSA TENGGARA TIMUR,2022,Maret,Perkotaan,Total,558741.0,489950.61
+NUSA TENGGARA TIMUR,2022,Maret,Perkotaan dan Perdesaan,Makanan,358224.0,319890.29
+NUSA TENGGARA TIMUR,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,102599.0,88364.15
+NUSA TENGGARA TIMUR,2022,Maret,Perkotaan dan Perdesaan,Total,460823.0,407050.71
+NUSA TENGGARA TIMUR,2022,September,Perdesaan,Makanan,366047.0,310920.255
+NUSA TENGGARA TIMUR,2022,September,Perdesaan,Non-Makanan,89496.0,72237.325
+NUSA TENGGARA TIMUR,2022,September,Perdesaan,Total,455543.0,381201.795
+NUSA TENGGARA TIMUR,2022,September,Perkotaan,Makanan,423538.0,352479.06
+NUSA TENGGARA TIMUR,2022,September,Perkotaan,Non-Makanan,170478.0,138024.13
+NUSA TENGGARA TIMUR,2022,September,Perkotaan,Total,594016.0,491847.84
+NUSA TENGGARA TIMUR,2022,September,Perkotaan dan Perdesaan,Makanan,380566.0,320123.795
+NUSA TENGGARA TIMUR,2022,September,Perkotaan dan Perdesaan,Non-Makanan,110343.0,88983.795
+NUSA TENGGARA TIMUR,2022,September,Perkotaan dan Perdesaan,Total,490909.0,408529.25
+PAPUA,2021,Maret,Perdesaan,Makanan,451443.0,427238.96
+PAPUA,2021,Maret,Perdesaan,Non-Makanan,122067.0,114104.14
+PAPUA,2021,Maret,Perdesaan,Total,573510.0,548834.18
+PAPUA,2021,Maret,Perkotaan,Makanan,428098.0,413493.03
+PAPUA,2021,Maret,Perkotaan,Non-Makanan,206605.0,200343.225
+PAPUA,2021,Maret,Perkotaan,Total,634703.0,609972.445
+PAPUA,2021,Maret,Perkotaan dan Perdesaan,Makanan,445607.0,423838.88
+PAPUA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,146352.0,139016.92
+PAPUA,2021,Maret,Perkotaan dan Perdesaan,Total,591959.0,562512.735
+PAPUA,2021,September,Perdesaan,Makanan,455814.0,438465.54
+PAPUA,2021,September,Perdesaan,Non-Makanan,126343.0,115764.115
+PAPUA,2021,September,Perdesaan,Total,582157.0,560304.63
+PAPUA,2021,September,Perkotaan,Makanan,434937.0,419904.415
+PAPUA,2021,September,Perkotaan,Non-Makanan,208134.0,202138.56
+PAPUA,2021,September,Perkotaan,Total,643071.0,615807.165
+PAPUA,2021,September,Perkotaan dan Perdesaan,Makanan,450729.0,433245.585
+PAPUA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,150066.0,140895.14
+PAPUA,2021,September,Perkotaan dan Perdesaan,Total,600795.0,574779.095
+PAPUA,2022,Maret,Perdesaan,Makanan,476758.0,427238.96
+PAPUA,2022,Maret,Perdesaan,Non-Makanan,131446.0,114104.14
+PAPUA,2022,Maret,Perdesaan,Total,608205.0,548834.18
+PAPUA,2022,Maret,Perkotaan,Makanan,456263.0,413493.03
+PAPUA,2022,Maret,Perkotaan,Non-Makanan,220512.0,200343.225
+PAPUA,2022,Maret,Perkotaan,Total,676775.0,609972.445
+PAPUA,2022,Maret,Perkotaan dan Perdesaan,Makanan,471880.0,423838.88
+PAPUA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,157295.0,139016.92
+PAPUA,2022,Maret,Perkotaan dan Perdesaan,Total,629175.0,562512.735
+PAPUA,2022,September,Perdesaan,Makanan,507226.0,438465.54
+PAPUA,2022,September,Perdesaan,Non-Makanan,138890.0,115764.115
+PAPUA,2022,September,Perdesaan,Total,646116.0,560304.63
+PAPUA,2022,September,Perkotaan,Makanan,493024.0,419904.415
+PAPUA,2022,September,Perkotaan,Non-Makanan,230322.0,202138.56
+PAPUA,2022,September,Perkotaan,Total,723346.0,615807.165
+PAPUA,2022,September,Perkotaan dan Perdesaan,Makanan,503948.0,433245.585
+PAPUA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,165460.0,140895.14
+PAPUA,2022,September,Perkotaan dan Perdesaan,Total,669408.0,574779.095
+PAPUA BARAT,2021,Maret,Perdesaan,Makanan,476185.0,468488.99
+PAPUA BARAT,2021,Maret,Perdesaan,Non-Makanan,137459.0,124571.295
+PAPUA BARAT,2021,Maret,Perdesaan,Total,613644.0,594832.33
+PAPUA BARAT,2021,Maret,Perkotaan,Makanan,474175.0,455098.935
+PAPUA BARAT,2021,Maret,Perkotaan,Non-Makanan,180703.0,173056.545
+PAPUA BARAT,2021,Maret,Perkotaan,Total,654878.0,625271.485
+PAPUA BARAT,2021,Maret,Perkotaan dan Perdesaan,Makanan,475394.0,463103.935
+PAPUA BARAT,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,156024.0,143495.45
+PAPUA BARAT,2021,Maret,Perkotaan dan Perdesaan,Total,631418.0,608305.285
+PAPUA BARAT,2021,September,Perdesaan,Makanan,491591.0,469768.32
+PAPUA BARAT,2021,September,Perdesaan,Non-Makanan,138294.0,126982.805
+PAPUA BARAT,2021,September,Perdesaan,Total,629885.0,599989.18
+PAPUA BARAT,2021,September,Perkotaan,Makanan,493825.0,458155.855
+PAPUA BARAT,2021,September,Perkotaan,Non-Makanan,189323.0,174382.46
+PAPUA BARAT,2021,September,Perkotaan,Total,683148.0,630918.92
+PAPUA BARAT,2021,September,Perkotaan dan Perdesaan,Makanan,492485.0,464654.48
+PAPUA BARAT,2021,September,Perkotaan dan Perdesaan,Non-Makanan,160036.0,145814.485
+PAPUA BARAT,2021,September,Perkotaan dan Perdesaan,Total,652521.0,612402.125
+PAPUA BARAT,2022,Maret,Perdesaan,Makanan,500372.0,468488.99
+PAPUA BARAT,2022,Maret,Perdesaan,Non-Makanan,141193.0,124571.295
+PAPUA BARAT,2022,Maret,Perdesaan,Total,641565.0,594832.33
+PAPUA BARAT,2022,Maret,Perkotaan,Makanan,509314.0,455098.935
+PAPUA BARAT,2022,Maret,Perkotaan,Non-Makanan,190854.0,173056.545
+PAPUA BARAT,2022,Maret,Perkotaan,Total,700168.0,625271.485
+PAPUA BARAT,2022,Maret,Perkotaan dan Perdesaan,Makanan,503916.0,463103.935
+PAPUA BARAT,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,161688.0,143495.45
+PAPUA BARAT,2022,Maret,Perkotaan dan Perdesaan,Total,665604.0,608305.285
+PAPUA BARAT,2022,September,Perdesaan,Makanan,525865.0,469768.32
+PAPUA BARAT,2022,September,Perdesaan,Non-Makanan,156596.0,126982.805
+PAPUA BARAT,2022,September,Perdesaan,Total,682461.0,599989.18
+PAPUA BARAT,2022,September,Perkotaan,Makanan,535410.0,458155.855
+PAPUA BARAT,2022,September,Perkotaan,Non-Makanan,206365.0,174382.46
+PAPUA BARAT,2022,September,Perkotaan,Total,741776.0,630918.92
+PAPUA BARAT,2022,September,Perkotaan dan Perdesaan,Makanan,529916.0,464654.48
+PAPUA BARAT,2022,September,Perkotaan dan Perdesaan,Non-Makanan,178241.0,145814.485
+PAPUA BARAT,2022,September,Perkotaan dan Perdesaan,Total,708157.0,612402.125
+RIAU,2021,Maret,Perdesaan,Makanan,409818.0,394900.67
+RIAU,2021,Maret,Perdesaan,Non-Makanan,136989.0,128855.22
+RIAU,2021,Maret,Perdesaan,Total,546807.0,523476.6
+RIAU,2021,Maret,Perkotaan,Makanan,419858.0,399221.87
+RIAU,2021,Maret,Perkotaan,Non-Makanan,175412.0,166747.58
+RIAU,2021,Maret,Perkotaan,Total,595270.0,560653.77
+RIAU,2021,Maret,Perkotaan dan Perdesaan,Makanan,413593.0,396805.9
+RIAU,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,152344.0,142202.78
+RIAU,2021,Maret,Perkotaan dan Perdesaan,Total,565937.0,539830.31
+RIAU,2021,September,Perdesaan,Makanan,423953.0,396657.385
+RIAU,2021,September,Perdesaan,Non-Makanan,140947.0,130100.26
+RIAU,2021,September,Perdesaan,Total,564900.0,526879.32
+RIAU,2021,September,Perkotaan,Makanan,432554.0,401112.225
+RIAU,2021,September,Perkotaan,Non-Makanan,185998.0,168483.225
+RIAU,2021,September,Perkotaan,Total,618552.0,564372.475
+RIAU,2021,September,Perkotaan dan Perdesaan,Makanan,427086.0,398465.035
+RIAU,2021,September,Perkotaan dan Perdesaan,Non-Makanan,158976.0,144156.79
+RIAU,2021,September,Perkotaan dan Perdesaan,Total,586062.0,542663.345
+RIAU,2022,Maret,Perdesaan,Makanan,435905.0,394900.67
+RIAU,2022,Maret,Perdesaan,Non-Makanan,146319.0,128855.22
+RIAU,2022,Maret,Perdesaan,Total,582224.0,523476.6
+RIAU,2022,Maret,Perkotaan,Makanan,450681.0,399221.87
+RIAU,2022,Maret,Perkotaan,Non-Makanan,191327.0,166747.58
+RIAU,2022,Maret,Perkotaan,Total,642008.0,560653.77
+RIAU,2022,Maret,Perkotaan dan Perdesaan,Makanan,441535.0,396805.9
+RIAU,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,164377.0,142202.78
+RIAU,2022,Maret,Perkotaan dan Perdesaan,Total,605912.0,539830.31
+RIAU,2022,September,Perdesaan,Makanan,468911.0,396657.385
+RIAU,2022,September,Perdesaan,Non-Makanan,154999.0,130100.26
+RIAU,2022,September,Perdesaan,Total,623910.0,526879.32
+RIAU,2022,September,Perkotaan,Makanan,486130.0,401112.225
+RIAU,2022,September,Perkotaan,Non-Makanan,200815.0,168483.225
+RIAU,2022,September,Perkotaan,Total,686945.0,564372.475
+RIAU,2022,September,Perkotaan dan Perdesaan,Makanan,475492.0,398465.035
+RIAU,2022,September,Perkotaan dan Perdesaan,Non-Makanan,173340.0,144156.79
+RIAU,2022,September,Perkotaan dan Perdesaan,Total,648832.0,542663.345
+SULAWESI BARAT,2021,Maret,Perdesaan,Makanan,278145.0,270220.32
+SULAWESI BARAT,2021,Maret,Perdesaan,Non-Makanan,85163.0,81636.15
+SULAWESI BARAT,2021,Maret,Perdesaan,Total,363308.0,350345.34
+SULAWESI BARAT,2021,Maret,Perkotaan,Makanan,286970.0,276205.475
+SULAWESI BARAT,2021,Maret,Perkotaan,Non-Makanan,81929.0,76694.435
+SULAWESI BARAT,2021,Maret,Perkotaan,Total,368899.0,355096.405
+SULAWESI BARAT,2021,Maret,Perkotaan dan Perdesaan,Makanan,279747.0,271113.005
+SULAWESI BARAT,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,84504.0,81253.335
+SULAWESI BARAT,2021,Maret,Perkotaan dan Perdesaan,Total,364251.0,350854.855
+SULAWESI BARAT,2021,September,Perdesaan,Makanan,297024.0,270956.435
+SULAWESI BARAT,2021,September,Perdesaan,Non-Makanan,87574.0,82612.475
+SULAWESI BARAT,2021,September,Perdesaan,Total,384598.0,352495.88
+SULAWESI BARAT,2021,September,Perkotaan,Makanan,299813.0,276881.33
+SULAWESI BARAT,2021,September,Perkotaan,Non-Makanan,82480.0,78256.305
+SULAWESI BARAT,2021,September,Perkotaan,Total,382292.0,356312.47
+SULAWESI BARAT,2021,September,Perkotaan dan Perdesaan,Makanan,297545.0,271673.805
+SULAWESI BARAT,2021,September,Perkotaan dan Perdesaan,Non-Makanan,86540.0,82088.555
+SULAWESI BARAT,2021,September,Perkotaan dan Perdesaan,Total,384085.0,352597.02
+SULAWESI BARAT,2022,Maret,Perdesaan,Makanan,313544.0,270220.32
+SULAWESI BARAT,2022,Maret,Perdesaan,Non-Makanan,91833.0,81636.15
+SULAWESI BARAT,2022,Maret,Perdesaan,Total,405377.0,350345.34
+SULAWESI BARAT,2022,Maret,Perkotaan,Makanan,317189.0,276205.475
+SULAWESI BARAT,2022,Maret,Perkotaan,Non-Makanan,87516.0,76694.435
+SULAWESI BARAT,2022,Maret,Perkotaan,Total,404705.0,355096.405
+SULAWESI BARAT,2022,Maret,Perkotaan dan Perdesaan,Makanan,314221.0,271113.005
+SULAWESI BARAT,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,90966.0,81253.335
+SULAWESI BARAT,2022,Maret,Perkotaan dan Perdesaan,Total,405187.0,350854.855
+SULAWESI BARAT,2022,September,Perdesaan,Makanan,327816.0,270956.435
+SULAWESI BARAT,2022,September,Perdesaan,Non-Makanan,98484.0,82612.475
+SULAWESI BARAT,2022,September,Perdesaan,Total,426299.0,352495.88
+SULAWESI BARAT,2022,September,Perkotaan,Makanan,334024.0,276881.33
+SULAWESI BARAT,2022,September,Perkotaan,Non-Makanan,94951.0,78256.305
+SULAWESI BARAT,2022,September,Perkotaan,Total,428974.0,356312.47
+SULAWESI BARAT,2022,September,Perkotaan dan Perdesaan,Makanan,329203.0,271673.805
+SULAWESI BARAT,2022,September,Perkotaan dan Perdesaan,Non-Makanan,97774.0,82088.555
+SULAWESI BARAT,2022,September,Perkotaan dan Perdesaan,Total,426977.0,352597.02
+SULAWESI SELATAN,2021,Maret,Perdesaan,Makanan,281013.0,267231.275
+SULAWESI SELATAN,2021,Maret,Perdesaan,Non-Makanan,77317.0,74959.895
+SULAWESI SELATAN,2021,Maret,Perdesaan,Total,358330.0,345089.91
+SULAWESI SELATAN,2021,Maret,Perkotaan,Makanan,276910.0,259471.115
+SULAWESI SELATAN,2021,Maret,Perkotaan,Non-Makanan,112894.0,108207.425
+SULAWESI SELATAN,2021,Maret,Perkotaan,Total,389804.0,366916.51
+SULAWESI SELATAN,2021,Maret,Perkotaan dan Perdesaan,Makanan,279240.0,264365.11
+SULAWESI SELATAN,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,93251.0,88976.22
+SULAWESI SELATAN,2021,Maret,Perkotaan dan Perdesaan,Total,372491.0,353381.49
+SULAWESI SELATAN,2021,September,Perdesaan,Makanan,288566.0,273127.92
+SULAWESI SELATAN,2021,September,Perdesaan,Non-Makanan,79900.0,76416.785
+SULAWESI SELATAN,2021,September,Perdesaan,Total,368465.0,352847.0
+SULAWESI SELATAN,2021,September,Perkotaan,Makanan,286095.0,264962.715
+SULAWESI SELATAN,2021,September,Perkotaan,Non-Makanan,117656.0,110429.21
+SULAWESI SELATAN,2021,September,Perkotaan,Total,403751.0,375152.78
+SULAWESI SELATAN,2021,September,Perkotaan dan Perdesaan,Makanan,287467.0,269553.47
+SULAWESI SELATAN,2021,September,Perkotaan dan Perdesaan,Non-Makanan,96988.0,90698.44
+SULAWESI SELATAN,2021,September,Perkotaan dan Perdesaan,Total,384455.0,359870.66
+SULAWESI SELATAN,2022,Maret,Perdesaan,Makanan,300359.0,267231.275
+SULAWESI SELATAN,2022,Maret,Perdesaan,Non-Makanan,83054.0,74959.895
+SULAWESI SELATAN,2022,Maret,Perdesaan,Total,383414.0,345089.91
+SULAWESI SELATAN,2022,Maret,Perkotaan,Makanan,298268.0,259471.115
+SULAWESI SELATAN,2022,Maret,Perkotaan,Non-Makanan,120903.0,108207.425
+SULAWESI SELATAN,2022,Maret,Perkotaan,Total,419172.0,366916.51
+SULAWESI SELATAN,2022,Maret,Perkotaan dan Perdesaan,Makanan,299433.0,264365.11
+SULAWESI SELATAN,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,100322.0,88976.22
+SULAWESI SELATAN,2022,Maret,Perkotaan dan Perdesaan,Total,399755.0,353381.49
+SULAWESI SELATAN,2022,September,Perdesaan,Makanan,316911.0,273127.92
+SULAWESI SELATAN,2022,September,Perdesaan,Non-Makanan,88302.0,76416.785
+SULAWESI SELATAN,2022,September,Perdesaan,Total,405213.0,352847.0
+SULAWESI SELATAN,2022,September,Perkotaan,Makanan,316179.0,264962.715
+SULAWESI SELATAN,2022,September,Perkotaan,Non-Makanan,127538.0,110429.21
+SULAWESI SELATAN,2022,September,Perkotaan,Total,443717.0,375152.78
+SULAWESI SELATAN,2022,September,Perkotaan dan Perdesaan,Makanan,316597.0,269553.47
+SULAWESI SELATAN,2022,September,Perkotaan dan Perdesaan,Non-Makanan,106355.0,90698.44
+SULAWESI SELATAN,2022,September,Perkotaan dan Perdesaan,Total,422952.0,359870.66
+SULAWESI TENGAH,2021,Maret,Perdesaan,Makanan,386603.0,363075.59
+SULAWESI TENGAH,2021,Maret,Perdesaan,Non-Makanan,105631.0,101228.02
+SULAWESI TENGAH,2021,Maret,Perdesaan,Total,492234.0,463540.77
+SULAWESI TENGAH,2021,Maret,Perkotaan,Makanan,367691.0,356279.47
+SULAWESI TENGAH,2021,Maret,Perkotaan,Non-Makanan,138692.0,135517.785
+SULAWESI TENGAH,2021,Maret,Perkotaan,Total,506383.0,491162.47
+SULAWESI TENGAH,2021,Maret,Perkotaan dan Perdesaan,Makanan,380991.0,361957.055
+SULAWESI TENGAH,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,115881.0,111448.02
+SULAWESI TENGAH,2021,Maret,Perkotaan dan Perdesaan,Total,496872.0,473645.165
+SULAWESI TENGAH,2021,September,Perdesaan,Makanan,391001.0,370932.635
+SULAWESI TENGAH,2021,September,Perdesaan,Non-Makanan,109351.0,102282.715
+SULAWESI TENGAH,2021,September,Perdesaan,Total,500351.0,470424.395
+SULAWESI TENGAH,2021,September,Perkotaan,Makanan,373960.0,359802.43
+SULAWESI TENGAH,2021,September,Perkotaan,Non-Makanan,142414.0,136865.5
+SULAWESI TENGAH,2021,September,Perkotaan,Total,516374.0,493703.175
+SULAWESI TENGAH,2021,September,Perkotaan dan Perdesaan,Makanan,385989.0,368077.89
+SULAWESI TENGAH,2021,September,Perkotaan dan Perdesaan,Non-Makanan,119619.0,113037.83
+SULAWESI TENGAH,2021,September,Perkotaan dan Perdesaan,Total,505608.0,479262.465
+SULAWESI TENGAH,2022,Maret,Perdesaan,Makanan,410179.0,363075.59
+SULAWESI TENGAH,2022,Maret,Perdesaan,Non-Makanan,115486.0,101228.02
+SULAWESI TENGAH,2022,Maret,Perdesaan,Total,525665.0,463540.77
+SULAWESI TENGAH,2022,Maret,Perkotaan,Makanan,388768.0,356279.47
+SULAWESI TENGAH,2022,Maret,Perkotaan,Non-Makanan,149250.0,135517.785
+SULAWESI TENGAH,2022,Maret,Perkotaan,Total,538018.0,491162.47
+SULAWESI TENGAH,2022,Maret,Perkotaan dan Perdesaan,Makanan,404034.0,361957.055
+SULAWESI TENGAH,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,126217.0,111448.02
+SULAWESI TENGAH,2022,Maret,Perkotaan dan Perdesaan,Total,530251.0,473645.165
+SULAWESI TENGAH,2022,September,Perdesaan,Makanan,427956.0,370932.635
+SULAWESI TENGAH,2022,September,Perdesaan,Non-Makanan,124605.0,102282.715
+SULAWESI TENGAH,2022,September,Perdesaan,Total,552561.0,470424.395
+SULAWESI TENGAH,2022,September,Perkotaan,Makanan,412305.0,359802.43
+SULAWESI TENGAH,2022,September,Perkotaan,Non-Makanan,153690.0,136865.5
+SULAWESI TENGAH,2022,September,Perkotaan,Total,565994.0,493703.175
+SULAWESI TENGAH,2022,September,Perkotaan dan Perdesaan,Makanan,423390.0,368077.89
+SULAWESI TENGAH,2022,September,Perkotaan dan Perdesaan,Non-Makanan,133793.0,113037.83
+SULAWESI TENGAH,2022,September,Perkotaan dan Perdesaan,Total,557183.0,479262.465
+SULAWESI TENGGARA,2021,Maret,Perdesaan,Makanan,284561.0,269530.6
+SULAWESI TENGGARA,2021,Maret,Perdesaan,Non-Makanan,85263.0,81137.325
+SULAWESI TENGGARA,2021,Maret,Perdesaan,Total,369824.0,352665.33
+SULAWESI TENGGARA,2021,Maret,Perkotaan,Makanan,281207.0,266044.025
+SULAWESI TENGGARA,2021,Maret,Perkotaan,Non-Makanan,112976.0,104668.545
+SULAWESI TENGGARA,2021,Maret,Perkotaan,Total,394183.0,368428.37
+SULAWESI TENGGARA,2021,Maret,Perkotaan dan Perdesaan,Makanan,283400.0,268260.275
+SULAWESI TENGGARA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,95189.0,89834.835
+SULAWESI TENGGARA,2021,Maret,Perkotaan dan Perdesaan,Total,378589.0,357066.93
+SULAWESI TENGGARA,2021,September,Perdesaan,Makanan,297786.0,275528.705
+SULAWESI TENGGARA,2021,September,Perdesaan,Non-Makanan,88060.0,83952.675
+SULAWESI TENGGARA,2021,September,Perdesaan,Total,385845.0,362419.045
+SULAWESI TENGGARA,2021,September,Perkotaan,Makanan,293509.0,273581.655
+SULAWESI TENGGARA,2021,September,Perkotaan,Non-Makanan,116823.0,107966.585
+SULAWESI TENGGARA,2021,September,Perkotaan,Total,410332.0,379123.575
+SULAWESI TENGGARA,2021,September,Perkotaan dan Perdesaan,Makanan,296298.0,274825.065
+SULAWESI TENGGARA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,98446.0,92433.045
+SULAWESI TENGGARA,2021,September,Perkotaan dan Perdesaan,Total,394744.0,366283.395
+SULAWESI TENGGARA,2022,Maret,Perdesaan,Makanan,305321.0,269530.6
+SULAWESI TENGGARA,2022,Maret,Perdesaan,Non-Makanan,89413.0,81137.325
+SULAWESI TENGGARA,2022,Maret,Perdesaan,Total,394734.0,352665.33
+SULAWESI TENGGARA,2022,Maret,Perkotaan,Makanan,301800.0,266044.025
+SULAWESI TENGGARA,2022,Maret,Perkotaan,Non-Makanan,118643.0,104668.545
+SULAWESI TENGGARA,2022,Maret,Perkotaan,Total,420442.0,368428.37
+SULAWESI TENGGARA,2022,Maret,Perkotaan dan Perdesaan,Makanan,304126.0,268260.275
+SULAWESI TENGGARA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,100011.0,89834.835
+SULAWESI TENGGARA,2022,Maret,Perkotaan dan Perdesaan,Total,404137.0,357066.93
+SULAWESI TENGGARA,2022,September,Perdesaan,Makanan,327126.0,275528.705
+SULAWESI TENGGARA,2022,September,Perdesaan,Non-Makanan,94558.0,83952.675
+SULAWESI TENGGARA,2022,September,Perdesaan,Total,421684.0,362419.045
+SULAWESI TENGGARA,2022,September,Perkotaan,Makanan,324704.0,273581.655
+SULAWESI TENGGARA,2022,September,Perkotaan,Non-Makanan,126476.0,107966.585
+SULAWESI TENGGARA,2022,September,Perkotaan,Total,451180.0,379123.575
+SULAWESI TENGGARA,2022,September,Perkotaan dan Perdesaan,Makanan,326264.0,274825.065
+SULAWESI TENGGARA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,106200.0,92433.045
+SULAWESI TENGGARA,2022,September,Perkotaan dan Perdesaan,Total,432464.0,366283.395
+SULAWESI UTARA,2021,Maret,Perdesaan,Makanan,316222.0,301660.81
+SULAWESI UTARA,2021,Maret,Perdesaan,Non-Makanan,88413.0,85738.515
+SULAWESI UTARA,2021,Maret,Perdesaan,Total,404635.0,389332.495
+SULAWESI UTARA,2021,Maret,Perkotaan,Makanan,319561.0,301766.92
+SULAWESI UTARA,2021,Maret,Perkotaan,Non-Makanan,96597.0,95829.835
+SULAWESI UTARA,2021,Maret,Perkotaan,Total,416158.0,400270.56
+SULAWESI UTARA,2021,Maret,Perkotaan dan Perdesaan,Makanan,317970.0,301167.28
+SULAWESI UTARA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,92835.0,91172.415
+SULAWESI UTARA,2021,Maret,Perkotaan dan Perdesaan,Total,410805.0,393713.15
+SULAWESI UTARA,2021,September,Perdesaan,Makanan,320933.0,306270.875
+SULAWESI UTARA,2021,September,Perdesaan,Non-Makanan,90517.0,86710.01
+SULAWESI UTARA,2021,September,Perdesaan,Total,411450.0,394740.675
+SULAWESI UTARA,2021,September,Perkotaan,Makanan,326632.0,305902.6
+SULAWESI UTARA,2021,September,Perkotaan,Non-Makanan,96796.0,96661.465
+SULAWESI UTARA,2021,September,Perkotaan,Total,423427.0,404130.64
+SULAWESI UTARA,2021,September,Perkotaan dan Perdesaan,Makanan,323997.0,305876.2
+SULAWESI UTARA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,93933.0,92663.545
+SULAWESI UTARA,2021,September,Perkotaan dan Perdesaan,Total,417930.0,397848.605
+SULAWESI UTARA,2022,Maret,Perdesaan,Makanan,327019.0,301660.81
+SULAWESI UTARA,2022,Maret,Perdesaan,Non-Makanan,92570.0,85738.515
+SULAWESI UTARA,2022,Maret,Perdesaan,Total,419589.0,389332.495
+SULAWESI UTARA,2022,Maret,Perkotaan,Makanan,336174.0,301766.92
+SULAWESI UTARA,2022,Maret,Perkotaan,Non-Makanan,97296.0,95829.835
+SULAWESI UTARA,2022,Maret,Perkotaan,Total,433470.0,400270.56
+SULAWESI UTARA,2022,Maret,Perkotaan dan Perdesaan,Makanan,331904.0,301167.28
+SULAWESI UTARA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,95112.0,91172.415
+SULAWESI UTARA,2022,Maret,Perkotaan dan Perdesaan,Total,427016.0,393713.15
+SULAWESI UTARA,2022,September,Perdesaan,Makanan,348939.0,306270.875
+SULAWESI UTARA,2022,September,Perdesaan,Non-Makanan,97931.0,86710.01
+SULAWESI UTARA,2022,September,Perdesaan,Total,446871.0,394740.675
+SULAWESI UTARA,2022,September,Perkotaan,Makanan,357703.0,305902.6
+SULAWESI UTARA,2022,September,Perkotaan,Non-Makanan,103035.0,96661.465
+SULAWESI UTARA,2022,September,Perkotaan,Total,460738.0,404130.64
+SULAWESI UTARA,2022,September,Perkotaan dan Perdesaan,Makanan,353727.0,305876.2
+SULAWESI UTARA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,100742.0,92663.545
+SULAWESI UTARA,2022,September,Perkotaan dan Perdesaan,Total,454469.0,397848.605
+SUMATERA BARAT,2021,Maret,Perdesaan,Makanan,438205.0,414518.49
+SUMATERA BARAT,2021,Maret,Perdesaan,Non-Makanan,117976.0,109642.445
+SUMATERA BARAT,2021,Maret,Perdesaan,Total,556181.0,522297.095
+SUMATERA BARAT,2021,Maret,Perkotaan,Makanan,424106.0,411492.1
+SUMATERA BARAT,2021,Maret,Perkotaan,Non-Makanan,156831.0,149051.615
+SUMATERA BARAT,2021,Maret,Perkotaan,Total,580937.0,554502.505
+SUMATERA BARAT,2021,Maret,Perkotaan dan Perdesaan,Makanan,431644.0,413509.125
+SUMATERA BARAT,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,137059.0,128053.58
+SUMATERA BARAT,2021,Maret,Perkotaan dan Perdesaan,Total,568703.0,542281.315
+SUMATERA BARAT,2021,September,Perdesaan,Makanan,444693.0,414846.94
+SUMATERA BARAT,2021,September,Perdesaan,Non-Makanan,121531.0,110970.665
+SUMATERA BARAT,2021,September,Perdesaan,Total,566224.0,525966.39
+SUMATERA BARAT,2021,September,Perkotaan,Makanan,431008.0,412461.77
+SUMATERA BARAT,2021,September,Perkotaan,Non-Makanan,161294.0,150556.685
+SUMATERA BARAT,2021,September,Perkotaan,Total,592302.0,559226.44
+SUMATERA BARAT,2021,September,Perkotaan dan Perdesaan,Makanan,438308.0,414066.125
+SUMATERA BARAT,2021,September,Perkotaan dan Perdesaan,Non-Makanan,141237.0,129974.25
+SUMATERA BARAT,2021,September,Perkotaan dan Perdesaan,Total,579545.0,544636.895
+SUMATERA BARAT,2022,Maret,Perdesaan,Makanan,470942.0,414518.49
+SUMATERA BARAT,2022,Maret,Perdesaan,Non-Makanan,127489.0,109642.445
+SUMATERA BARAT,2022,Maret,Perdesaan,Total,598431.0,522297.095
+SUMATERA BARAT,2022,Maret,Perkotaan,Makanan,453326.0,411492.1
+SUMATERA BARAT,2022,Maret,Perkotaan,Non-Makanan,169253.0,149051.615
+SUMATERA BARAT,2022,Maret,Perkotaan,Total,622579.0,554502.505
+SUMATERA BARAT,2022,Maret,Perkotaan dan Perdesaan,Makanan,462910.0,413509.125
+SUMATERA BARAT,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,148030.0,128053.58
+SUMATERA BARAT,2022,Maret,Perkotaan dan Perdesaan,Total,610940.0,542281.315
+SUMATERA BARAT,2022,September,Perdesaan,Makanan,500796.0,414846.94
+SUMATERA BARAT,2022,September,Perdesaan,Non-Makanan,138150.0,110970.665
+SUMATERA BARAT,2022,September,Perdesaan,Total,638946.0,525966.39
+SUMATERA BARAT,2022,September,Perkotaan,Makanan,490322.0,412461.77
+SUMATERA BARAT,2022,September,Perkotaan,Non-Makanan,178321.0,150556.685
+SUMATERA BARAT,2022,September,Perkotaan,Total,668643.0,559226.44
+SUMATERA BARAT,2022,September,Perkotaan dan Perdesaan,Makanan,495824.0,414066.125
+SUMATERA BARAT,2022,September,Perkotaan dan Perdesaan,Non-Makanan,158370.0,129974.25
+SUMATERA BARAT,2022,September,Perkotaan dan Perdesaan,Total,654194.0,544636.895
+SUMATERA SELATAN,2021,Maret,Perdesaan,Makanan,335549.0,322994.945
+SUMATERA SELATAN,2021,Maret,Perdesaan,Non-Makanan,105866.0,99979.365
+SUMATERA SELATAN,2021,Maret,Perdesaan,Total,441415.0,422272.535
+SUMATERA SELATAN,2021,Maret,Perkotaan,Makanan,350163.0,336259.75
+SUMATERA SELATAN,2021,Maret,Perkotaan,Non-Makanan,135276.0,132577.6
+SUMATERA SELATAN,2021,Maret,Perkotaan,Total,485439.0,471366.57
+SUMATERA SELATAN,2021,Maret,Perkotaan dan Perdesaan,Makanan,340567.0,327318.455
+SUMATERA SELATAN,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,116888.0,112131.945
+SUMATERA SELATAN,2021,Maret,Perkotaan dan Perdesaan,Total,457455.0,440549.785
+SUMATERA SELATAN,2021,September,Perdesaan,Makanan,337702.0,324451.79
+SUMATERA SELATAN,2021,September,Perdesaan,Non-Makanan,108975.0,100391.14
+SUMATERA SELATAN,2021,September,Perdesaan,Total,446678.0,423853.06
+SUMATERA SELATAN,2021,September,Perkotaan,Makanan,354236.0,336813.535
+SUMATERA SELATAN,2021,September,Perkotaan,Non-Makanan,137422.0,133743.64
+SUMATERA SELATAN,2021,September,Perkotaan,Total,491658.0,472493.13
+SUMATERA SELATAN,2021,September,Perkotaan dan Perdesaan,Makanan,343549.0,328629.63
+SUMATERA SELATAN,2021,September,Perkotaan dan Perdesaan,Non-Makanan,119702.0,113057.415
+SUMATERA SELATAN,2021,September,Perkotaan dan Perdesaan,Total,463251.0,441408.53
+SUMATERA SELATAN,2022,Maret,Perdesaan,Makanan,353000.0,322994.945
+SUMATERA SELATAN,2022,Maret,Perdesaan,Non-Makanan,114139.0,99979.365
+SUMATERA SELATAN,2022,Maret,Perdesaan,Total,467139.0,422272.535
+SUMATERA SELATAN,2022,Maret,Perkotaan,Makanan,374346.0,336259.75
+SUMATERA SELATAN,2022,Maret,Perkotaan,Non-Makanan,141579.0,132577.6
+SUMATERA SELATAN,2022,Maret,Perkotaan,Total,515925.0,471366.57
+SUMATERA SELATAN,2022,Maret,Perkotaan dan Perdesaan,Makanan,360600.0,327318.455
+SUMATERA SELATAN,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,124469.0,112131.945
+SUMATERA SELATAN,2022,Maret,Perkotaan dan Perdesaan,Total,485069.0,440549.785
+SUMATERA SELATAN,2022,September,Perdesaan,Makanan,368981.0,324451.79
+SUMATERA SELATAN,2022,September,Perdesaan,Non-Makanan,124901.0,100391.14
+SUMATERA SELATAN,2022,September,Perdesaan,Total,493882.0,423853.06
+SUMATERA SELATAN,2022,September,Perkotaan,Makanan,400354.0,336813.535
+SUMATERA SELATAN,2022,September,Perkotaan,Non-Makanan,148101.0,133743.64
+SUMATERA SELATAN,2022,September,Perkotaan,Total,548455.0,472493.13
+SUMATERA SELATAN,2022,September,Perkotaan dan Perdesaan,Makanan,379882.0,328629.63
+SUMATERA SELATAN,2022,September,Perkotaan dan Perdesaan,Non-Makanan,133642.0,113057.415
+SUMATERA SELATAN,2022,September,Perkotaan dan Perdesaan,Total,513524.0,441408.53
+SUMATERA UTARA,2021,Maret,Perdesaan,Makanan,391979.0,374514.735
+SUMATERA UTARA,2021,Maret,Perdesaan,Non-Makanan,112706.0,106473.645
+SUMATERA UTARA,2021,Maret,Perdesaan,Total,504685.0,480915.545
+SUMATERA UTARA,2021,Maret,Perkotaan,Makanan,397996.0,376320.905
+SUMATERA UTARA,2021,Maret,Perkotaan,Non-Makanan,145089.0,139979.495
+SUMATERA UTARA,2021,Maret,Perkotaan,Total,543085.0,514645.5
+SUMATERA UTARA,2021,Maret,Perkotaan dan Perdesaan,Makanan,395104.0,375822.32
+SUMATERA UTARA,2021,Maret,Perkotaan dan Perdesaan,Non-Makanan,130652.0,123741.74
+SUMATERA UTARA,2021,Maret,Perkotaan dan Perdesaan,Total,525756.0,499116.01
+SUMATERA UTARA,2021,September,Perdesaan,Makanan,399971.0,377488.895
+SUMATERA UTARA,2021,September,Perdesaan,Non-Makanan,114016.0,106803.145
+SUMATERA UTARA,2021,September,Perdesaan,Total,513987.0,484000.875
+SUMATERA UTARA,2021,September,Perkotaan,Makanan,409313.0,378177.275
+SUMATERA UTARA,2021,September,Perkotaan,Non-Makanan,147124.0,141290.075
+SUMATERA UTARA,2021,September,Perkotaan,Total,556437.0,517537.14
+SUMATERA UTARA,2021,September,Perkotaan dan Perdesaan,Makanan,404860.0,378164.075
+SUMATERA UTARA,2021,September,Perkotaan dan Perdesaan,Non-Makanan,132451.0,125428.875
+SUMATERA UTARA,2021,September,Perkotaan dan Perdesaan,Total,537311.0,501519.25
+SUMATERA UTARA,2022,Maret,Perdesaan,Makanan,415301.0,374514.735
+SUMATERA UTARA,2022,Maret,Perdesaan,Non-Makanan,118883.0,106473.645
+SUMATERA UTARA,2022,Maret,Perdesaan,Total,534184.0,480915.545
+SUMATERA UTARA,2022,Maret,Perkotaan,Makanan,431588.0,376320.905
+SUMATERA UTARA,2022,Maret,Perkotaan,Non-Makanan,151633.0,139979.495
+SUMATERA UTARA,2022,Maret,Perkotaan,Total,583221.0,514645.5
+SUMATERA UTARA,2022,Maret,Perkotaan dan Perdesaan,Makanan,423760.0,375822.32
+SUMATERA UTARA,2022,Maret,Perkotaan dan Perdesaan,Non-Makanan,137244.0,123741.74
+SUMATERA UTARA,2022,Maret,Perkotaan dan Perdesaan,Total,561004.0,499116.01
+SUMATERA UTARA,2022,September,Perdesaan,Makanan,438098.0,377488.895
+SUMATERA UTARA,2022,September,Perdesaan,Non-Makanan,125685.0,106803.145
+SUMATERA UTARA,2022,September,Perdesaan,Total,563783.0,484000.875
+SUMATERA UTARA,2022,September,Perkotaan,Makanan,458089.0,378177.275
+SUMATERA UTARA,2022,September,Perkotaan,Non-Makanan,157137.0,141290.075
+SUMATERA UTARA,2022,September,Perkotaan,Total,615227.0,517537.14
+SUMATERA UTARA,2022,September,Perkotaan dan Perdesaan,Makanan,448623.0,378164.075
+SUMATERA UTARA,2022,September,Perkotaan dan Perdesaan,Non-Makanan,143402.0,125428.875
+SUMATERA UTARA,2022,September,Perkotaan dan Perdesaan,Total,592025.0,501519.25
